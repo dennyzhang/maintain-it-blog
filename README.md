@@ -74,7 +74,7 @@ You should have friends working in the same field. If your new doesn't serve you
 
 ### Make the reading fluid<a id="sec-1-2-2" name="sec-1-2-2"></a>
 
-If you can't deliver your thinking smoothly. People will simply leave.  
+If you can't deliver your thinking smoothly. People will simply leave. They don't even bother to leave you a complain.  
 
 ### Ask people to take small actions<a id="sec-1-2-3" name="sec-1-2-3"></a>
 
@@ -195,7 +195,7 @@ Yes, in blogging world, quantity over quality. But don't forget to re-activate y
 
 ### Ask people to share<a id="sec-1-5-1" name="sec-1-5-1"></a>
 
--   As always, please share if you enjoy it!
+As always, please share if you enjoy it!  
 
 Want to ask for comments and sharing:  
 
