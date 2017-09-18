@@ -109,7 +109,6 @@ Watch and observe others in the same field first.
 - Understand what drives them to do that
 *** Weekly review your old and popular posts: re-activate them
 Yes, in blogging world, quantity over quality. But don't forget to re-activate your own posts.
-** Role Models
 ** Secure And Speed
 *** About security
 - wp-config.php: Changing The Site URL
@@ -257,3 +256,5 @@ Update Per Audience Feedback:
 - [[https://blog.bufferapp.com/blogging-advice-for-beginners-from-16-experts][16 Top Tips from Blogging Experts for Beginners]]
 - [[http://www.lifehack.org/articles/featured/101-steps-to-becoming-a-better-blogger.html][101 Steps to Becoming a Better Blogger]]
 - [[http://blog.arkency.com/2017/07/the-easiest-posts-to-write-for-a-programming-blog/][The easiest posts to write for a programming blog]]
+*** Role Models
+- TODO
