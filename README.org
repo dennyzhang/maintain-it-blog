@@ -126,8 +126,9 @@ define('WP_SITEURL','http://example.com');
 - Disable all non-critical plugins
 ** InfoGraphics
 Principle:
-
 - An infographic is like a good story. Read more: [[https://blog.kissmetrics.com/12-infographic-tips/][here]]
+
+- Many infographics focus on presenting data.
 
 - Your infographic’s headline is extremely important.
 
