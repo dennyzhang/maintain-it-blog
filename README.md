@@ -6,38 +6,36 @@
 <ul>
 <li><a href="#sec-1-1">1.1. Topics For IT Writing</a>
 <ul>
-<li><a href="#sec-1-1-1">1.1.1. Share Local Knowledge You Use Frequently</a></li>
+<li><a href="#sec-1-1-1">1.1.1. Only Share Tips You Activately Use Everyday</a></li>
 <li><a href="#sec-1-1-2">1.1.2. Explore Github For Certain Topics</a></li>
 <li><a href="#sec-1-1-3">1.1.3. Introduce Latest Tech Trends In Your Field</a></li>
 </ul>
 </li>
-<li><a href="#sec-1-2">1.2. Lessons learned</a>
+<li><a href="#sec-1-2">1.2. Lessons Learned</a>
 <ul>
-<li><a href="#sec-1-2-1">1.2.1. Focus on your quality, instead of spreading to a bigger audience</a></li>
-<li><a href="#sec-1-2-2">1.2.2. Ask the feedback from your friends personally.</a></li>
-<li><a href="#sec-1-2-3">1.2.3. Ask people to take small actions</a></li>
-<li><a href="#sec-1-2-4">1.2.4. People are impatient</a></li>
-<li><a href="#sec-1-2-5">1.2.5. Make the reading fluid</a></li>
-<li><a href="#sec-1-2-6">1.2.6. Leave comments to similar blogs</a></li>
+<li><a href="#sec-1-2-1">1.2.1. How To Write</a></li>
+<li><a href="#sec-1-2-2">1.2.2. How To Promote</a></li>
+<li><a href="#sec-1-2-3">1.2.3. How To Beneifts</a></li>
 </ul>
 </li>
 <li><a href="#sec-1-3">1.3. General Process</a></li>
-<li><a href="#sec-1-4">1.4. Routine tasks</a>
+<li><a href="#sec-1-4">1.4. Routine Tasks</a>
 <ul>
 <li><a href="#sec-1-4-1">1.4.1. Examine blogs via Google webmaster and Google Pagespeed</a></li>
 <li><a href="#sec-1-4-2">1.4.2. List all new URLs link to your blog, and reach out them</a></li>
 <li><a href="#sec-1-4-3">1.4.3. Weekly review your old and popular posts: re-activate them</a></li>
 </ul>
 </li>
-<li><a href="#sec-1-5">1.5. Doc Template For Engagement</a>
+<li><a href="#sec-1-5">1.5. Role Models</a></li>
+<li><a href="#sec-1-6">1.6. Doc Template For Engagement</a>
 <ul>
-<li><a href="#sec-1-5-1">1.5.1. Ask people to share</a></li>
-<li><a href="#sec-1-5-2">1.5.2. Doc Template: Ask people to review my blog post</a></li>
+<li><a href="#sec-1-6-1">1.6.1. Ask people to share</a></li>
+<li><a href="#sec-1-6-2">1.6.2. Doc Template: Ask people to review my blog post</a></li>
 </ul>
 </li>
-<li><a href="#sec-1-6">1.6. Recommended Resource</a>
+<li><a href="#sec-1-7">1.7. Recommended Resource</a>
 <ul>
-<li><a href="#sec-1-6-1">1.6.1. Book: Contagious: Why Things Catch On</a></li>
+<li><a href="#sec-1-7-1">1.7.1. Book: Contagious. Why Things Catch On</a></li>
 </ul>
 </li>
 </ul>
@@ -60,7 +58,7 @@
 
 ## Topics For IT Writing<a id="sec-1-1" name="sec-1-1"></a>
 
-### Share Local Knowledge You Use Frequently<a id="sec-1-1-1" name="sec-1-1-1"></a>
+### Only Share Tips You Activately Use Everyday<a id="sec-1-1-1" name="sec-1-1-1"></a>
 
 If you need it quite often, some people in the same field will also need it  
 
@@ -72,17 +70,41 @@ Let's say you want to write a blog post of "tmux". Try all popular Github repos 
 
 Explore new things, and introduce them in a simple and easy language  
 
-## Lessons learned<a id="sec-1-2" name="sec-1-2"></a>
+## Lessons Learned<a id="sec-1-2" name="sec-1-2"></a>
 
-### Focus on your quality, instead of spreading to a bigger audience<a id="sec-1-2-1" name="sec-1-2-1"></a>
+### How To Write<a id="sec-1-2-1" name="sec-1-2-1"></a>
+
+-   Visualize Your Audience And Use Case, And Talk To Them.
+
+I talk to the audience/customers virtually. This would help to improve engaging people.  
+
+-   People are impatient
+
+You only have 3-5 seconds to convince people to keep reading  
+
+-   Make the reading fluid.
+
+If you can't deliver your thinking smoothly. People will simply leave. They don't even bother to leave you a complain.  
+
+### How To Promote<a id="sec-1-2-2" name="sec-1-2-2"></a>
+
+-   Focus on your quality, instead of spreading to a bigger audience.
 
 Bring crappy resource to a bigger audience? Do you really think it's a good thing, instead of a bad thing?  
 
-### Ask the feedback from your friends personally.<a id="sec-1-2-2" name="sec-1-2-2"></a>
+-   Your Friends To Review Your New Posts.
 
 You should have friends working in the same field. If your new doesn't serve your friends well, it won't work well for others.  
 
-### Ask people to take small actions<a id="sec-1-2-3" name="sec-1-2-3"></a>
+-   Leave comments to similar blogs
+
+The main objective is not about bringing more traffic to your blog. It's about learning things from other bloggers, and make friends with them.  
+
+You're not competitors. You help each other to grow stronger and do better.  
+
+### How To Beneifts<a id="sec-1-2-3" name="sec-1-2-3"></a>
+
+-   Ask people to take small actions.
 
 Blogging is about convincing. Make people take actions.  
 
@@ -93,20 +115,6 @@ Ask people:
 3.  Send you private messages
 4.  Share with their friends
 5.  Leave you comments
-
-### People are impatient<a id="sec-1-2-4" name="sec-1-2-4"></a>
-
-You only have 3-5 seconds to convince people to keep reading  
-
-### Make the reading fluid<a id="sec-1-2-5" name="sec-1-2-5"></a>
-
-If you can't deliver your thinking smoothly. People will simply leave. They don't even bother to leave you a complain.  
-
-### Leave comments to similar blogs<a id="sec-1-2-6" name="sec-1-2-6"></a>
-
-The main objective is not about bringing more traffic to your blog. It's about learning things from other bloggers, and make friends with them.  
-
-You're not competitors. You help each other to grow stronger and do better.  
 
 ## General Process<a id="sec-1-3" name="sec-1-3"></a>
 
@@ -189,12 +197,12 @@ You're not competitors. You help each other to grow stronger and do better.
 </tbody>
 </table>
 
-## Routine tasks<a id="sec-1-4" name="sec-1-4"></a>
+## Routine Tasks<a id="sec-1-4" name="sec-1-4"></a>
 
 ### Examine blogs via Google webmaster and Google Pagespeed<a id="sec-1-4-1" name="sec-1-4-1"></a>
 
 1.  Google Crawl -> Crawl Errors: [Link](https://www.google.com/webmasters/tools/crawl-errors?hl=en&siteUrl=https://www.dennyzhang.com/#t2=3)
-2.  The blog should loads within 3 seconds: [link](https://developers.google.com/speed/pagespeed/insights/)
+2.  The blog should loads within 3 seconds: [link](https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fwww.dennyzhang.com%2F)
 
 ### List all new URLs link to your blog, and reach out them<a id="sec-1-4-2" name="sec-1-4-2"></a>
 
@@ -205,9 +213,11 @@ You're not competitors. You help each other to grow stronger and do better.
 
 Yes, in blogging world, quantity over quality. But don't forget to re-activate your own posts.  
 
-## Doc Template For Engagement<a id="sec-1-5" name="sec-1-5"></a>
+## Role Models<a id="sec-1-5" name="sec-1-5"></a>
 
-### Ask people to share<a id="sec-1-5-1" name="sec-1-5-1"></a>
+## Doc Template For Engagement<a id="sec-1-6" name="sec-1-6"></a>
+
+### Ask people to share<a id="sec-1-6-1" name="sec-1-6-1"></a>
 
 As always, please share if you enjoy it!  
 
@@ -216,7 +226,7 @@ Want to ask for comments and sharing:
     http://www.blogtyrant.com/get-more-email-subscribers/
     As always, I’ve probably forgot a lot of really cool things. Leave a comment down below if you have any effective strategies you’d like to share. Oh, and please give this a share if you have a second cos it took a while to put together!
 
-### Doc Template: Ask people to review my blog post<a id="sec-1-5-2" name="sec-1-5-2"></a>
+### Doc Template: Ask people to review my blog post<a id="sec-1-6-2" name="sec-1-6-2"></a>
 
     XXX, could you spare me a few minutes to review my new blog post?
     https://www.dennyzhang.com/docker_monitor
@@ -224,8 +234,8 @@ Want to ask for comments and sharing:
     I want to listen to your feedback, before I publish it.
     If you're too busy for this, surely I can understand. Thanks!
 
-## Recommended Resource<a id="sec-1-6" name="sec-1-6"></a>
+## Recommended Resource<a id="sec-1-7" name="sec-1-7"></a>
 
-### Book: Contagious: Why Things Catch On<a id="sec-1-6-1" name="sec-1-6-1"></a>
+### Book: Contagious. Why Things Catch On<a id="sec-1-7-1" name="sec-1-7-1"></a>
 
 -   Contagious: Why Things Catch On by Jonah Berger. [Amazon purchase Link](https://www.amazon.com/gp/product/1451686587/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1451686587&linkCode=as2&tag=dennyzhang-20&linkId=2e380926eec0d144e0648f532e1ad78e).
