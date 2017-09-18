@@ -103,6 +103,23 @@ Watch and observe others in the same field first.
 *** Weekly review your old and popular posts: re-activate them
 Yes, in blogging world, quantity over quality. But don't forget to re-activate your own posts.
 ** Role Models
+** Secure And Speed Up Your Blog
+*** About security
+- wp-config.php: Changing The Site URL
+#+BEGIN_EXAMPLE
+https://codex.wordpress.org/Changing_The_Site_URL
+define('WP_HOME','http://example.com');
+define('WP_SITEURL','http://example.com');
+#+END_EXAMPLE
+*** Speed up
+- Useful tools
+| Tool                | Link                                                    |
+|---------------------+---------------------------------------------------------|
+| Google pagespeed    | https://developers.google.com/speed/pagespeed/insights/ |
+| Test from 24 cities | https://www.dotcom-tools.com/website-speed-test.aspx    |
+| webpagetest         | https://www.webpagetest.org                             |
+
+- Disable all non-critical plugins
 ** Image Manipulation
 *** Remove Background Color In MacOS
 Use gimp: Color to Alfa. See more [[https://docs.gimp.org/en/plug-in-colortoalpha.html][here]].
