@@ -70,7 +70,11 @@
 
 ### Explore GitHub For Certain Topics<a id="sec-1-1-2" name="sec-1-1-2"></a>
 
-Let's say you want to write a blog post of "tmux". Try all popular Github repos related to "tmux". Understand their beautify and strengths, then write a blog post. If necessary, start your own github repo about "tmux".  
+Let's say you want to write a blog post of "tmux".  
+
+1.  Try all popular Github repos related to "tmux".
+2.  Understand their beautify and strengths, then write a blog post.
+3.  If necessary, start your own github repo about "tmux".
 
 ### Introduce Latest Tech Trends In Your Field<a id="sec-1-1-3" name="sec-1-1-3"></a>
 

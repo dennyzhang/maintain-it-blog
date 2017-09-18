@@ -18,7 +18,10 @@
 - If you need it quite often, people in the same field may also need it
 - Live knowledge will grow and evolve.
 *** Explore GitHub For Certain Topics
-Let's say you want to write a blog post of "tmux". Try all popular Github repos related to "tmux". Understand their beautify and strengths, then write a blog post. If necessary, start your own github repo about "tmux".
+Let's say you want to write a blog post of "tmux". 
+1. Try all popular Github repos related to "tmux". 
+- Understand their beautify and strengths, then write a blog post. 
+- If necessary, start your own github repo about "tmux".
 *** Introduce Latest Tech Trends In Your Field
 Explore new things, and introduce them in a simple and easy language
 ** Lessons Learned
