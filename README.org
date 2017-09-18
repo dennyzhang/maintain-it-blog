@@ -82,7 +82,7 @@ More examples:
 
 Reading reading: [[http://www.copyblogger.com/10-sure-fire-headline-formulas-that-work/][link]]
 ** [#A] Open Issues
-*** How To Find Similar Bloggers
+*** How To Find Similar Blogs
 Watch and observe others in the same field first.
 *** Find Good and qualified Icons quickly
 - TODO

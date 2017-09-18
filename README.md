@@ -21,7 +21,7 @@
 <li><a href="#sec-1-3">1.3. Write Catchy Headlines</a></li>
 <li><a href="#sec-1-4">1.4. Open Issues</a>
 <ul>
-<li><a href="#sec-1-4-1">1.4.1. How To Find Similar Bloggers</a></li>
+<li><a href="#sec-1-4-1">1.4.1. How To Find Similar Blogs</a></li>
 <li><a href="#sec-1-4-2">1.4.2. Find Good and qualified Icons quickly</a></li>
 </ul>
 </li>
@@ -180,7 +180,7 @@ Reading reading: [link](http://www.copyblogger.com/10-sure-fire-headline-formula
 
 ## Open Issues<a id="sec-1-4" name="sec-1-4"></a>
 
-### How To Find Similar Bloggers<a id="sec-1-4-1" name="sec-1-4-1"></a>
+### How To Find Similar Blogs<a id="sec-1-4-1" name="sec-1-4-1"></a>
 
 Watch and observe others in the same field first.  
 
