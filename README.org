@@ -131,7 +131,8 @@ define('WP_SITEURL','http://example.com');
 | webpagetest         | https://www.webpagetest.org                             |
 
 - Disable all non-critical plugins
-** InfoGraphics
+** Images & GiF & InfoGraphics
+*** InfoGraphics
 Principle:
 - An infographic is like a good story. Read more: [[https://blog.kissmetrics.com/12-infographic-tips/][here]]
 
@@ -145,7 +146,6 @@ Principle:
 
 - Keep it focused.
 Infographics are not attempts to randomly assemble all the data you can compile. Instead, an infographic is intended to drive a single, focused point.
-** Image Manipulation
 *** Remove Background Color In MacOS
 Use gimp: Color to Alfa. See more [[https://docs.gimp.org/en/plug-in-colortoalpha.html][here]].
 *** Find Funny GIF Pictures
