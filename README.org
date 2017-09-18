@@ -45,6 +45,8 @@ show readers you are summarizing, comparing or concluding something.
 - Focus on your quality, instead of spreading to a bigger audience.
 Bring crappy resource to a bigger audience? Do you really think it's a good thing, instead of a bad thing?
 
+- Improve interlinks, thus people read more posts in your blog
+
 - Your Friends To Review Your New Posts.
 You should have friends working in the same field. If your new doesn't serve your friends well, it won't work well for others.
 
@@ -65,6 +67,11 @@ Ask people:
 - Share with their friends
 - Leave you comments
 ** Write Catchy Headlines
+Different types:
+- Benefit-driven subject lines: What's in it for me?
+- Curiosity-driven subject lines
+
+More examples:
 - Who Else Wants [a Higher Paying Job]?
 - The Secret of [Getting Your Home Loan Approved]
 - Here is a Method That is Helping [Bloggers] To [Write Better Post Titles]
@@ -249,3 +256,4 @@ Update Per Audience Feedback:
 *** Web pages
 - [[https://blog.bufferapp.com/blogging-advice-for-beginners-from-16-experts][16 Top Tips from Blogging Experts for Beginners]]
 - [[http://www.lifehack.org/articles/featured/101-steps-to-becoming-a-better-blogger.html][101 Steps to Becoming a Better Blogger]]
+- [[http://blog.arkency.com/2017/07/the-easiest-posts-to-write-for-a-programming-blog/][The easiest posts to write for a programming blog]]

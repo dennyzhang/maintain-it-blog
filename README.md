@@ -131,6 +131,8 @@ show readers you are summarizing, comparing or concluding something.
 
 Bring crappy resource to a bigger audience? Do you really think it's a good thing, instead of a bad thing?  
 
+-   Improve interlinks, thus people read more posts in your blog
+
 -   Your Friends To Review Your New Posts.
 
 You should have friends working in the same field. If your new doesn't serve your friends well, it won't work well for others.  
@@ -158,6 +160,13 @@ Ask people:
 5.  Leave you comments
 
 ## Write Catchy Headlines<a id="sec-1-3" name="sec-1-3"></a>
+
+Different types:  
+
+-   Benefit-driven subject lines: What's in it for me?
+-   Curiosity-driven subject lines
+
+More examples:  
 
 -   Who Else Wants [a Higher Paying Job]?
 -   The Secret of [Getting Your Home Loan Approved]
@@ -339,6 +348,8 @@ Principle:
 
 -   An infographic is like a good story. Read more: [here](https://blog.kissmetrics.com/12-infographic-tips/)
 
+-   Many infographics focus on presenting data.
+
 -   Your infographic’s headline is extremely important.
 
 -   Don't choose something generically popular, rather than specifically relevant to your audience.
@@ -475,3 +486,4 @@ XXX, glad to hear that! I like to discuss DevOps questions in Linkedin, and blog
 
 -   [16 Top Tips from Blogging Experts for Beginners](https://blog.bufferapp.com/blogging-advice-for-beginners-from-16-experts)
 -   [101 Steps to Becoming a Better Blogger](http://www.lifehack.org/articles/featured/101-steps-to-becoming-a-better-blogger.html)
+-   [The easiest posts to write for a programming blog](http://blog.arkency.com/2017/07/the-easiest-posts-to-write-for-a-programming-blog/)
