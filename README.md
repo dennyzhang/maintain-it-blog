@@ -34,9 +34,10 @@
 </ul>
 </li>
 <li><a href="#sec-1-7">1.7. Role Models</a></li>
-<li><a href="#sec-1-8">1.8. Find Icons &amp; Pictures</a>
+<li><a href="#sec-1-8">1.8. Image Manipulation</a>
 <ul>
-<li><a href="#sec-1-8-1">1.8.1. Find Funny GIF Pictures</a></li>
+<li><a href="#sec-1-8-1">1.8.1. Remove Background Color In MacOS</a></li>
+<li><a href="#sec-1-8-2">1.8.2. Find Funny GIF Pictures</a></li>
 </ul>
 </li>
 <li><a href="#sec-1-9">1.9. Doc Template</a>
@@ -270,9 +271,13 @@ Yes, in blogging world, quantity over quality. But don't forget to re-activate y
 
 ## Role Models<a id="sec-1-7" name="sec-1-7"></a>
 
-## Find Icons & Pictures<a id="sec-1-8" name="sec-1-8"></a>
+## Image Manipulation<a id="sec-1-8" name="sec-1-8"></a>
 
-### Find Funny GIF Pictures<a id="sec-1-8-1" name="sec-1-8-1"></a>
+### Remove Background Color In MacOS<a id="sec-1-8-1" name="sec-1-8-1"></a>
+
+Use gimp: Color to Alfa. See more [here](https://docs.gimp.org/en/plug-in-colortoalpha.html).  
+
+### Find Funny GIF Pictures<a id="sec-1-8-2" name="sec-1-8-2"></a>
 
 <http://devopsreactions.tumblr.com>  
 

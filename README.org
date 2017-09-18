@@ -103,7 +103,9 @@ Watch and observe others in the same field first.
 *** Weekly review your old and popular posts: re-activate them
 Yes, in blogging world, quantity over quality. But don't forget to re-activate your own posts.
 ** Role Models
-** Find Icons & Pictures
+** Image Manipulation
+*** Remove Background Color In MacOS
+Use gimp: Color to Alfa. See more [[https://docs.gimp.org/en/plug-in-colortoalpha.html][here]].
 *** Find Funny GIF Pictures
 http://devopsreactions.tumblr.com
 
