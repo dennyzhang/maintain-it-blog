@@ -30,9 +30,11 @@
 <li><a href="#sec-1-6">1.6. Role Models</a></li>
 <li><a href="#sec-1-7">1.7. Doc Template</a>
 <ul>
-<li><a href="#sec-1-7-1">1.7.1. Write A New Blog Post</a></li>
-<li><a href="#sec-1-7-2">1.7.2. Ask People To Share</a></li>
-<li><a href="#sec-1-7-3">1.7.3. Ask People To Review</a></li>
+<li><a href="#sec-1-7-1">1.7.1. doc: Write A New Blog Post</a></li>
+<li><a href="#sec-1-7-2">1.7.2. doc: Ask People To Share</a></li>
+<li><a href="#sec-1-7-3">1.7.3. doc: Ask People To Review</a></li>
+<li><a href="#sec-1-7-4">1.7.4. doc: Reply When People Admire Your Posts</a></li>
+<li><a href="#sec-1-7-5">1.7.5. doc: say sorry</a></li>
 </ul>
 </li>
 <li><a href="#sec-1-8">1.8. Recommended Resource</a>
@@ -235,7 +237,7 @@ Yes, in blogging world, quantity over quality. But don't forget to re-activate y
 
 ## Doc Template<a id="sec-1-7" name="sec-1-7"></a>
 
-### Write A New Blog Post<a id="sec-1-7-1" name="sec-1-7-1"></a>
+### doc: Write A New Blog Post<a id="sec-1-7-1" name="sec-1-7-1"></a>
 
 -   start a blog post
 
@@ -243,7 +245,7 @@ Yes, in blogging world, quantity over quality. But don't forget to re-activate y
     Thinking that you’d like to start a blog this year? This post is for you!
     Try to solve this.
 
-### Ask People To Share<a id="sec-1-7-2" name="sec-1-7-2"></a>
+### doc: Ask People To Share<a id="sec-1-7-2" name="sec-1-7-2"></a>
 
 As always, please share if you enjoy it!  
 
@@ -252,7 +254,7 @@ Want to ask for comments and sharing:
     http://www.blogtyrant.com/get-more-email-subscribers/
     As always, I’ve probably forgot a lot of really cool things. Leave a comment down below if you have any effective strategies you’d like to share. Oh, and please give this a share if you have a second cos it took a while to put together!
 
-### Ask People To Review<a id="sec-1-7-3" name="sec-1-7-3"></a>
+### doc: Ask People To Review<a id="sec-1-7-3" name="sec-1-7-3"></a>
 
 -   Review my blog post
 
@@ -261,6 +263,30 @@ Want to ask for comments and sharing:
     
     I want to listen to your feedback, before I publish it.
     If you're too busy for this, surely I can understand. Thanks!
+
+### doc: Reply When People Admire Your Posts<a id="sec-1-7-4" name="sec-1-7-4"></a>
+
+Savitoj, glad to hear that! I like to discuss DevOps questions in Linkedin, and blogging. Please be my friend, and join us in the discussions!  
+
+    Hey Denny,  Glad to see we share a professional connection here. I have started following your blog and honestly, I love it (so far).  Thank you again, Have a great day ahead!  Regards, Savitoj Singh
+    10:03 AM
+    Denny Zhang sent the following message at 10:05 AM
+    Savitoj, glad to hear that!   I like to discuss DevOps questions in Linkedin, and blogging.  Please be my friend, and join us in the discussions!
+    10:05 AM
+    Savitoj Singh sent the following message at 10:16 AM
+     Savitoj Singh
+    Would you mind providing me the link to the group? I will be glad to be a part of that group and contribute the ways I could be.  Thanks
+    10:16 AM
+    Denny Zhang sent the following message at 10:18 AM
+    LOL, I don't maintain the Linkedin group.  (Frankly speaking, I find more Ads than useful posts there)  If you can poll my Linkedin updates, you will see the discussions.
+    10:18 AM
+    Savitoj Singh sent the following message at 10:19 AM
+     Savitoj Singh
+    Awesome. :)
+
+### doc: say sorry<a id="sec-1-7-5" name="sec-1-7-5"></a>
+
+-   We apologize for any confusion about ...
 
 ## Recommended Resource<a id="sec-1-8" name="sec-1-8"></a>
 
