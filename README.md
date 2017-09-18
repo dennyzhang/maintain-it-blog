@@ -128,28 +128,21 @@ You're not competitors. You help each other to grow stronger and do better.
 <tr>
 <td class="right">1</td>
 <td class="left">Think before you write!</td>
-<td class="left">Choose Title <https://www.google.com></td>
+<td class="left">Choose Title. It matters!</td>
 </tr>
 
 
 <tr>
 <td class="right">&#xa0;</td>
-<td class="left">-> Identity central question to address</td>
-<td class="left">&#xa0;</td>
+<td class="left">Ask questions in SNS</td>
+<td class="left">Anticipate Community (LinkedIn, slack, v2ex, etc)</td>
 </tr>
 
 
 <tr>
 <td class="right">&#xa0;</td>
 <td class="left">Google related pages (Get SEO Keywords)</td>
-<td class="left">Keywords in Summary <https://ubersuggest.io></td>
-</tr>
-
-
-<tr>
-<td class="right">&#xa0;</td>
-<td class="left">Write questions in Reddit/v2ex</td>
-<td class="left">Anticipate Community <https://www.reddit.com/r/devops/></td>
+<td class="left">Keywords in Summary</td>
 </tr>
 </tbody>
 
@@ -181,11 +174,12 @@ You're not competitors. You help each other to grow stronger and do better.
 <td class="left">Reply related discussion</td>
 <td class="left">&#xa0;</td>
 </tr>
+</tbody>
 
-
+<tbody>
 <tr>
-<td class="right">&#xa0;</td>
-<td class="left">Reply related pages found in stage 1</td>
+<td class="right">4</td>
+<td class="left">Keep polishing old posts</td>
 <td class="left">&#xa0;</td>
 </tr>
 </tbody>
