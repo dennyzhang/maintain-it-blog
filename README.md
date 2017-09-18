@@ -18,34 +18,40 @@
 <li><a href="#sec-1-2-3">1.2.3. How To Get Benefits</a></li>
 </ul>
 </li>
-<li><a href="#sec-1-3">1.3. Write Catchy Headlines &amp; Engaging Intro</a></li>
-<li><a href="#sec-1-4">1.4. General Process</a></li>
-<li><a href="#sec-1-5">1.5. Routine Tasks</a>
+<li><a href="#sec-1-3">1.3. Write Catchy Headlines</a></li>
+<li><a href="#sec-1-4">1.4. Open Issues</a>
 <ul>
-<li><a href="#sec-1-5-1">1.5.1. Examine blogs via Google webmaster and Google Pagespeed</a></li>
-<li><a href="#sec-1-5-2">1.5.2. List all new URLs link to your blog, and reach out them</a></li>
-<li><a href="#sec-1-5-3">1.5.3. Weekly review your old and popular posts: re-activate them</a></li>
+<li><a href="#sec-1-4-1">1.4.1. How To Find Similar Bloggers</a></li>
 </ul>
 </li>
-<li><a href="#sec-1-6">1.6. Role Models</a></li>
-<li><a href="#sec-1-7">1.7. Find Icons &amp; Pictures</a>
+<li><a href="#sec-1-5">1.5. General Process</a></li>
+<li><a href="#sec-1-6">1.6. Routine Tasks</a>
 <ul>
-<li><a href="#sec-1-7-1">1.7.1. Find Funny GIF Pictures</a></li>
+<li><a href="#sec-1-6-1">1.6.1. Examine blogs via Google webmaster and Google Pagespeed</a></li>
+<li><a href="#sec-1-6-2">1.6.2. List all new URLs link to your blog, and reach out them</a></li>
+<li><a href="#sec-1-6-3">1.6.3. Weekly review your old and popular posts: re-activate them</a></li>
 </ul>
 </li>
-<li><a href="#sec-1-8">1.8. Doc Template</a>
+<li><a href="#sec-1-7">1.7. Role Models</a></li>
+<li><a href="#sec-1-8">1.8. Find Icons &amp; Pictures</a>
 <ul>
-<li><a href="#sec-1-8-1">1.8.1. Doc: Write A New Blog Post</a></li>
-<li><a href="#sec-1-8-2">1.8.2. Doc: Ask People To Share</a></li>
-<li><a href="#sec-1-8-3">1.8.3. Doc: Ask People To Review</a></li>
-<li><a href="#sec-1-8-4">1.8.4. Doc: Reply When People Admire Your Posts</a></li>
-<li><a href="#sec-1-8-5">1.8.5. Doc: say sorry</a></li>
+<li><a href="#sec-1-8-1">1.8.1. Find Funny GIF Pictures</a></li>
 </ul>
 </li>
-<li><a href="#sec-1-9">1.9. Recommended Resources</a>
+<li><a href="#sec-1-9">1.9. Doc Template</a>
 <ul>
-<li><a href="#sec-1-9-1">1.9.1. Book: Contagious. Why Things Catch On</a></li>
-<li><a href="#sec-1-9-2">1.9.2. Web pages</a></li>
+<li><a href="#sec-1-9-1">1.9.1. Doc: Write A New Blog Post</a></li>
+<li><a href="#sec-1-9-2">1.9.2. Doc: Ask People To Share</a></li>
+<li><a href="#sec-1-9-3">1.9.3. Doc: Ask People To Review</a></li>
+<li><a href="#sec-1-9-4">1.9.4. Doc: Reply When People Admire Your Posts</a></li>
+<li><a href="#sec-1-9-5">1.9.5. Doc: examples of transition words</a></li>
+<li><a href="#sec-1-9-6">1.9.6. Doc: say sorry</a></li>
+</ul>
+</li>
+<li><a href="#sec-1-10">1.10. Recommended Resources</a>
+<ul>
+<li><a href="#sec-1-10-1">1.10.1. Book: Contagious. Why Things Catch On</a></li>
+<li><a href="#sec-1-10-2">1.10.2. Web pages</a></li>
 </ul>
 </li>
 </ul>
@@ -98,13 +104,17 @@ You only have 3-5 seconds to convince people to keep reading
 
 I talk to the audience/customers virtually. This would help to improve engaging people.  
 
+-   Avoid using vague or fuzzy statement.
+
+People like meaningful details.  
+
 -   Make the reading fluid.
 
 If you can't deliver your thinking smoothly. People will simply leave. They don't even bother to leave you a complain.  
 
--   Avoid using vague or fuzzy statement.
+-   Use of transition words
 
-People like meaningful details.  
+show readers you are summarizing, comparing or concluding something.  
 
 ### How To Promote<a id="sec-1-2-2" name="sec-1-2-2"></a>
 
@@ -138,7 +148,7 @@ Ask people:
 4.  Share with their friends
 5.  Leave you comments
 
-## Write Catchy Headlines & Engaging Intro<a id="sec-1-3" name="sec-1-3"></a>
+## Write Catchy Headlines<a id="sec-1-3" name="sec-1-3"></a>
 
 -   Who Else Wants [a Higher Paying Job]?
 -   The Secret of [Getting Your Home Loan Approved]
@@ -150,7 +160,13 @@ Ask people:
 
 Reading reading: [link](http://www.copyblogger.com/10-sure-fire-headline-formulas-that-work/)  
 
-## General Process<a id="sec-1-4" name="sec-1-4"></a>
+## Open Issues<a id="sec-1-4" name="sec-1-4"></a>
+
+### How To Find Similar Bloggers<a id="sec-1-4-1" name="sec-1-4-1"></a>
+
+Watch and observe others in the same field first.  
+
+## General Process<a id="sec-1-5" name="sec-1-5"></a>
 
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
@@ -231,27 +247,27 @@ Reading reading: [link](http://www.copyblogger.com/10-sure-fire-headline-formula
 </tbody>
 </table>
 
-## Routine Tasks<a id="sec-1-5" name="sec-1-5"></a>
+## Routine Tasks<a id="sec-1-6" name="sec-1-6"></a>
 
-### Examine blogs via Google webmaster and Google Pagespeed<a id="sec-1-5-1" name="sec-1-5-1"></a>
+### Examine blogs via Google webmaster and Google Pagespeed<a id="sec-1-6-1" name="sec-1-6-1"></a>
 
 1.  Google Crawl -> Crawl Errors: [Link](https://www.google.com/webmasters/tools/crawl-errors?hl=en&siteUrl=https://www.dennyzhang.com/#t2=3)
 2.  The blog should loads within 3 seconds: [link](https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fwww.dennyzhang.com%2F)
 
-### List all new URLs link to your blog, and reach out them<a id="sec-1-5-2" name="sec-1-5-2"></a>
+### List all new URLs link to your blog, and reach out them<a id="sec-1-6-2" name="sec-1-6-2"></a>
 
 1.  Send them thank-you note
 2.  Understand what drives them to do that
 
-### Weekly review your old and popular posts: re-activate them<a id="sec-1-5-3" name="sec-1-5-3"></a>
+### Weekly review your old and popular posts: re-activate them<a id="sec-1-6-3" name="sec-1-6-3"></a>
 
 Yes, in blogging world, quantity over quality. But don't forget to re-activate your own posts.  
 
-## Role Models<a id="sec-1-6" name="sec-1-6"></a>
+## Role Models<a id="sec-1-7" name="sec-1-7"></a>
 
-## Find Icons & Pictures<a id="sec-1-7" name="sec-1-7"></a>
+## Find Icons & Pictures<a id="sec-1-8" name="sec-1-8"></a>
 
-### Find Funny GIF Pictures<a id="sec-1-7-1" name="sec-1-7-1"></a>
+### Find Funny GIF Pictures<a id="sec-1-8-1" name="sec-1-8-1"></a>
 
 <http://devopsreactions.tumblr.com>  
 
@@ -263,7 +279,7 @@ Yes, in blogging world, quantity over quality. But don't forget to re-activate y
 <http://giphy.com/search/funny-gif>  
 <https://www.reddit.com/r/gifs/>  
 
-## Doc Template<a id="sec-1-8" name="sec-1-8"></a>
+## Doc Template<a id="sec-1-9" name="sec-1-9"></a>
 
 Principle:  
 
@@ -271,7 +287,7 @@ Principle:
 -   Don't use "WE, I" too often. Avoid use I, me
 -   Five powerful words: discover，guarantee, health, result, you
 
-### Doc: Write A New Blog Post<a id="sec-1-8-1" name="sec-1-8-1"></a>
+### Doc: Write A New Blog Post<a id="sec-1-9-1" name="sec-1-9-1"></a>
 
 -   start a blog post
 
@@ -279,7 +295,7 @@ Principle:
     Thinking that you’d like to start a blog this year? This post is for you!
     Try to solve this.
 
-### Doc: Ask People To Share<a id="sec-1-8-2" name="sec-1-8-2"></a>
+### Doc: Ask People To Share<a id="sec-1-9-2" name="sec-1-9-2"></a>
 
 As always, please share if you enjoy it!  
 
@@ -288,7 +304,7 @@ Want to ask for comments and sharing:
     http://www.blogtyrant.com/get-more-email-subscribers/
     As always, I’ve probably forgot a lot of really cool things. Leave a comment down below if you have any effective strategies you’d like to share. Oh, and please give this a share if you have a second cos it took a while to put together!
 
-### Doc: Ask People To Review<a id="sec-1-8-3" name="sec-1-8-3"></a>
+### Doc: Ask People To Review<a id="sec-1-9-3" name="sec-1-9-3"></a>
 
 -   Review my blog post
 
@@ -298,21 +314,76 @@ Want to ask for comments and sharing:
     I want to listen to your feedback, before I publish it.
     If you're too busy for this, surely I can understand. Thanks!
 
-### Doc: Reply When People Admire Your Posts<a id="sec-1-8-4" name="sec-1-8-4"></a>
+### Doc: Reply When People Admire Your Posts<a id="sec-1-9-4" name="sec-1-9-4"></a>
 
 XXX, glad to hear that! I like to discuss DevOps questions in Linkedin, and blogging. Please be my friend, and join us in the discussions!  
 
-### Doc: say sorry<a id="sec-1-8-5" name="sec-1-8-5"></a>
+### Doc: examples of transition words<a id="sec-1-9-5" name="sec-1-9-5"></a>
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="left" />
+
+<col  class="left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="left">Type of relation</th>
+<th scope="col" class="left">Examples of transition words</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td class="left">enumerate</td>
+<td class="left">and, first of all, also, another, furthermore, finally, in addition</td>
+</tr>
+
+
+<tr>
+<td class="left">cause</td>
+<td class="left">because, so, due to, while, since, therefore</td>
+</tr>
+
+
+<tr>
+<td class="left">comparison/ contrast</td>
+<td class="left">same, less, rather, while, yet, opposite, much as, either</td>
+</tr>
+
+
+<tr>
+<td class="left">conclusion</td>
+<td class="left">as a result, hence, consequently, therefore, in conclusion</td>
+</tr>
+
+
+<tr>
+<td class="left">fuzzy signals</td>
+<td class="left">seems like, maybe, probably, almost</td>
+</tr>
+
+
+<tr>
+<td class="left">emphasis</td>
+<td class="left">most of all, most noteworthy, especially relevant</td>
+</tr>
+</tbody>
+</table>
+
+### Doc: say sorry<a id="sec-1-9-6" name="sec-1-9-6"></a>
 
 -   We apologize for any confusion about ...
 
-## Recommended Resources<a id="sec-1-9" name="sec-1-9"></a>
+## Recommended Resources<a id="sec-1-10" name="sec-1-10"></a>
 
-### Book: Contagious. Why Things Catch On<a id="sec-1-9-1" name="sec-1-9-1"></a>
+### Book: Contagious. Why Things Catch On<a id="sec-1-10-1" name="sec-1-10-1"></a>
 
 -   Contagious: Why Things Catch On by Jonah Berger. [Amazon purchase Link](https://www.amazon.com/gp/product/1451686587/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1451686587&linkCode=as2&tag=dennyzhang-20&linkId=2e380926eec0d144e0648f532e1ad78e).
 
-### Web pages<a id="sec-1-9-2" name="sec-1-9-2"></a>
+### Web pages<a id="sec-1-10-2" name="sec-1-10-2"></a>
 
 -   [16 Top Tips from Blogging Experts for Beginners](https://blog.bufferapp.com/blogging-advice-for-beginners-from-16-experts)
 -   [101 Steps to Becoming a Better Blogger](http://www.lifehack.org/articles/featured/101-steps-to-becoming-a-better-blogger.html)

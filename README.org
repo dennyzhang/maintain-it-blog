@@ -32,11 +32,15 @@ You only have 3-5 seconds to convince people to keep reading
 - Visualize Your Audience And Use Case, And "Talk" To Them.
 I talk to the audience/customers virtually. This would help to improve engaging people.
 
+- Avoid using vague or fuzzy statement.
+People like meaningful details.
+
 - Make the reading fluid.
 If you can't deliver your thinking smoothly. People will simply leave. They don't even bother to leave you a complain.
 
-- Avoid using vague or fuzzy statement.
-People like meaningful details.
+- Use of transition words
+show readers you are summarizing, comparing or concluding something.
+
 *** How To Promote
 - Focus on your quality, instead of spreading to a bigger audience.
 Bring crappy resource to a bigger audience? Do you really think it's a good thing, instead of a bad thing?
@@ -60,7 +64,7 @@ Ask people:
 - Send you private messages
 - Share with their friends
 - Leave you comments
-** Write Catchy Headlines & Engaging Intro
+** Write Catchy Headlines
 - Who Else Wants [a Higher Paying Job]?
 - The Secret of [Getting Your Home Loan Approved]
 - Here is a Method That is Helping [Bloggers] To [Write Better Post Titles]
@@ -70,6 +74,9 @@ Ask people:
 - Now You Can [Quit Your Job] and [Make Even More Money]
 
 Reading reading: [[http://www.copyblogger.com/10-sure-fire-headline-formulas-that-work/][link]]
+** [#A] Open Issues
+*** How To Find Similar Bloggers
+Watch and observe others in the same field first.
 ** General Process
 | Stage | Summary                                 | Tool                                              |
 |-------+-----------------------------------------+---------------------------------------------------|
@@ -156,6 +163,15 @@ Savitoj Singh sent the following message at 10:19 AM
  Savitoj Singh
 Awesome. :)
 #+END_EXAMPLE
+*** Doc: examples of transition words
+| Type of relation     | Examples of transition words                                        |
+|----------------------+---------------------------------------------------------------------|
+| enumerate            | and, first of all, also, another, furthermore, finally, in addition |
+| cause                | because, so, due to, while, since, therefore                        |
+| comparison/ contrast | same, less, rather, while, yet, opposite, much as, either           |
+| conclusion           | as a result, hence, consequently, therefore, in conclusion          |
+| fuzzy signals        | seems like, maybe, probably, almost                                 |
+| emphasis             | most of all, most noteworthy, especially relevant                   |
 *** Doc: say sorry
 - We apologize for any confusion about ...
 *** Doc: Blog Writing Template                                     :noexport:
