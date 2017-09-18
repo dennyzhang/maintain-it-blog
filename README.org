@@ -94,6 +94,18 @@ Reading reading: [[http://www.copyblogger.com/10-sure-fire-headline-formulas-tha
 *** Weekly review your old and popular posts: re-activate them
 Yes, in blogging world, quantity over quality. But don't forget to re-activate your own posts.
 ** Role Models
+** Find Icons & Pictures
+*** Find Funny GIF Pictures
+http://devopsreactions.tumblr.com
+
+http://awesomegifs.com
+
+https://www.tumblr.com/explore/gifs
+https://www.tumblr.com/tagged/funny-gif
+
+http://giphy.com/search/funny-gif
+https://www.reddit.com/r/gifs/
+
 ** Doc Template
 Principle: 
 - Prefer Active Voice over passive voice: avoid "to be" + "ed"
@@ -178,3 +190,6 @@ Update Per Audience Feedback:
 ** Recommended Resources
 *** Book: Contagious. Why Things Catch On
 - Contagious: Why Things Catch On by Jonah Berger. [[https://www.amazon.com/gp/product/1451686587/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1451686587&linkCode=as2&tag=dennyzhang-20&linkId=2e380926eec0d144e0648f532e1ad78e][Amazon purchase Link]].
+*** Web pages
+- [[https://blog.bufferapp.com/blogging-advice-for-beginners-from-16-experts][16 Top Tips from Blogging Experts for Beginners]]
+- [[http://www.lifehack.org/articles/featured/101-steps-to-becoming-a-better-blogger.html][101 Steps to Becoming a Better Blogger]]
