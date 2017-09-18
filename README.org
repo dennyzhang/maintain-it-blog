@@ -27,7 +27,7 @@ Explore new things, and introduce them in a simple and easy language
 ** Lessons Learned
 *** How To Write
 - People are impatient
-You only have 3-5 seconds to convince people to keep reading
+You only have 3-5 seconds to convince people to keep reading. Use signal words: help people to scan through your text
 
 - Visualize Your Audience And Use Case, And "Talk" To Them.
 I talk to the audience/customers virtually. This would help to improve engaging people.
@@ -77,6 +77,8 @@ Reading reading: [[http://www.copyblogger.com/10-sure-fire-headline-formulas-tha
 ** [#A] Open Issues
 *** How To Find Similar Bloggers
 Watch and observe others in the same field first.
+*** Find Good and qualified Icons quickly
+- TODO
 ** General Process
 | Stage | Summary                                 | Tool                                              |
 |-------+-----------------------------------------+---------------------------------------------------|

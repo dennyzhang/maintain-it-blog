@@ -22,6 +22,7 @@
 <li><a href="#sec-1-4">1.4. Open Issues</a>
 <ul>
 <li><a href="#sec-1-4-1">1.4.1. How To Find Similar Bloggers</a></li>
+<li><a href="#sec-1-4-2">1.4.2. Find Good and qualified Icons quickly</a></li>
 </ul>
 </li>
 <li><a href="#sec-1-5">1.5. General Process</a></li>
@@ -98,7 +99,7 @@ Explore new things, and introduce them in a simple and easy language
 
 -   People are impatient
 
-You only have 3-5 seconds to convince people to keep reading  
+You only have 3-5 seconds to convince people to keep reading. Use signal words: help people to scan through your text  
 
 -   Visualize Your Audience And Use Case, And "Talk" To Them.
 
@@ -165,6 +166,10 @@ Reading reading: [link](http://www.copyblogger.com/10-sure-fire-headline-formula
 ### How To Find Similar Bloggers<a id="sec-1-4-1" name="sec-1-4-1"></a>
 
 Watch and observe others in the same field first.  
+
+### Find Good and qualified Icons quickly<a id="sec-1-4-2" name="sec-1-4-2"></a>
+
+-   TODO
 
 ## General Process<a id="sec-1-5" name="sec-1-5"></a>
 
