@@ -47,7 +47,7 @@
 <a href="https://github.com/DennyZhang"><img src="https://www.dennyzhang.com/wp-content/uploads/sns/github.png" alt="github" /></a>
 <a href="https://www.dennyzhang.com/slack"><img src="https://www.dennyzhang.com/wp-content/uploads/sns/slack.png" alt="slack" /></a>
 
--   File me [tickets](<https://github.com/DennyZhang/maintain-slack-group/issues>) or star [this github repo](<https://github.com/DennyZhang/maintain-slack-group>)
+-   File me [tickets](<https://github.com/DennyZhang/maintain-it-blog/issues>) or star [this github repo](<https://github.com/DennyZhang/maintain-it-blog>)
 -   [Denny knowledge-base in Github](https://github.com/search?utf8=✓&q=topic%3Aknowledge-base+user%3ADennyZhang&type=Repositories)
 
 ---
