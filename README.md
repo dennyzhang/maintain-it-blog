@@ -15,7 +15,7 @@
 <ul>
 <li><a href="#sec-1-2-1">1.2.1. How To Write</a></li>
 <li><a href="#sec-1-2-2">1.2.2. How To Promote</a></li>
-<li><a href="#sec-1-2-3">1.2.3. How To Benefit</a></li>
+<li><a href="#sec-1-2-3">1.2.3. How To Get Benefits</a></li>
 </ul>
 </li>
 <li><a href="#sec-1-3">1.3. Write Catchy Headlines &amp; Engaging Intro</a></li>
@@ -116,7 +116,9 @@ The main objective is not about bringing more traffic to your blog. It's about l
 
 You're not competitors. You help each other to grow stronger and do better.  
 
-### How To Benefit<a id="sec-1-2-3" name="sec-1-2-3"></a>
+### How To Get Benefits<a id="sec-1-2-3" name="sec-1-2-3"></a>
+
+-   If your posts don't connvince people taking actions, your influence is low to the audience.
 
 -   Ask people to take small actions.
 
