@@ -1,0 +1,172 @@
+#+TAGS: noexport(n)
+#+OPTIONS: toc:3 \n:t
+#+AUTHOR: dennyzhang.com (contact@dennyzhang.com)
+#+SEQ_TODO: TODO HALF ASSIGN | DONE BYPASS DELEGATE CANCELED DEFERRED
+* Be a better IT Blogger
+#+BEGIN_HTML
+<a href="https://www.linkedin.com/in/dennyzhang001"><img src="https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png" alt="linkedin" /></a>
+<a href="https://github.com/DennyZhang"><img src="https://www.dennyzhang.com/wp-content/uploads/sns/github.png" alt="github" /></a>
+<a href="https://www.dennyzhang.com/slack"><img src="https://www.dennyzhang.com/wp-content/uploads/sns/slack.png" alt="slack" /></a>
+<a href="https://github.com/DennyZhang?tab=followers"><img align="right" width="200" height="183" src="https://www.dennyzhang.com/wp-content/uploads/denny/watermark/github.png" /></a>
+#+END_HTML
+
+- File me [tickets](https://github.com/DennyZhang/maintain-it-blog/issues) or star [this github repo](https://github.com/DennyZhang/maintain-it-blog)
+- [[https://github.com/search?utf8=✓&q=topic%3Aknowledge-base+user%3ADennyZhang&type=Repositories][Denny knowledge-base in Github]]
+--------------------------------------------------------
+** Topics For IT Writing
+*** Only Share Tips You Actively Use Everyday
+- If you need it quite often, people in the same field may also need it
+- Live knowledge will grow and evolve.
+*** Explore GitHub For Certain Topics
+Let's say you want to write a blog post of "tmux". Try all popular Github repos related to "tmux". Understand their beautify and strengths, then write a blog post. If necessary, start your own github repo about "tmux".
+*** Introduce Latest Tech Trends In Your Field
+Explore new things, and introduce them in a simple and easy language
+** Lessons Learned
+*** How To Write
+- Visualize Your Audience And Use Case, And Talk To Them.
+I talk to the audience/customers virtually. This would help to improve engaging people.
+
+- People are impatient
+You only have 3-5 seconds to convince people to keep reading
+
+- Make the reading fluid.
+If you can't deliver your thinking smoothly. People will simply leave. They don't even bother to leave you a complain.
+
+- Avoid using vague or fuzzy statement.
+People like meaningful details.
+*** How To Promote
+- Focus on your quality, instead of spreading to a bigger audience.
+Bring crappy resource to a bigger audience? Do you really think it's a good thing, instead of a bad thing?
+
+- Your Friends To Review Your New Posts.
+You should have friends working in the same field. If your new doesn't serve your friends well, it won't work well for others.
+
+- Leave comments to similar blogs
+The main objective is not about bringing more traffic to your blog. It's about learning things from other bloggers, and make friends with them.
+
+You're not competitors. You help each other to grow stronger and do better.
+*** How To Benefit
+-  Ask people to take small actions.
+Blogging is about convincing. Make people take actions.
+
+Ask people:
+1. Try your advice in 5 minutes
+- Follow you in SNS(LinkedIn, GitHub, etc)
+- Send you private messages
+- Share with their friends
+- Leave you comments
+** Write Catchy Headlines & Engaging Intro
+- Who Else Wants [a Higher Paying Job]?
+- The Secret of [Getting Your Home Loan Approved]
+- Here is a Method That is Helping [Bloggers] To [Write Better Post Titles]
+- Little Known Ways to [Lose Weight Quickly and Safely]
+- Get Rid of [Your Unproductive Work Habits] Once and For All
+- Here’s a Quick Way to [Backup Your Hard Drive]
+- Now You Can [Quit Your Job] and [Make Even More Money]
+
+Reading reading: [[http://www.copyblogger.com/10-sure-fire-headline-formulas-that-work/][link]]
+** General Process
+| Stage | Summary                                 | Tool                                              |
+|-------+-----------------------------------------+---------------------------------------------------|
+|     1 | Think before you write!                 | Choose Title. It matters!                         |
+|       | Ask questions in SNS                    | Anticipate Community (LinkedIn, slack, v2ex, etc) |
+|       | Google related pages (Get SEO Keywords) | Keywords in Summary                               |
+|-------+-----------------------------------------+---------------------------------------------------|
+|     2 | Write Post                              |                                                   |
+|-------+-----------------------------------------+---------------------------------------------------|
+|     3 | Improve SEO and writing by Google posts |                                                   |
+|       | Share to SNS                            |                                                   |
+|       | Reply related discussion                |                                                   |
+|-------+-----------------------------------------+---------------------------------------------------|
+|     4 | Keep polishing old posts                |                                                   |
+** Routine Tasks
+*** Examine blogs via Google webmaster and Google Pagespeed
+1. Google Crawl -> Crawl Errors: [[https://www.google.com/webmasters/tools/crawl-errors?hl=en&siteUrl=https://www.dennyzhang.com/#t2=3][Link]]
+- The blog should loads within 3 seconds: [[https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fwww.dennyzhang.com%2F][link]]
+*** List all new URLs link to your blog, and reach out them
+1. Send them thank-you note
+- Understand what drives them to do that
+*** Weekly review your old and popular posts: re-activate them
+Yes, in blogging world, quantity over quality. But don't forget to re-activate your own posts.
+** Role Models
+** Doc Template
+*** doc: Write A New Blog Post
+- start a blog post
+#+BEGIN_EXAMPLE
+In this article I’m going to show you:
+Thinking that you’d like to start a blog this year? This post is for you!
+Try to solve this.
+#+END_EXAMPLE
+
+*** doc: Ask People To Share
+As always, please share if you enjoy it!
+
+Want to ask for comments and sharing:
+#+BEGIN_EXAMPLE
+http://www.blogtyrant.com/get-more-email-subscribers/
+As always, I’ve probably forgot a lot of really cool things. Leave a comment down below if you have any effective strategies you’d like to share. Oh, and please give this a share if you have a second cos it took a while to put together!
+#+END_EXAMPLE
+*** doc: Ask People To Review
+- Review my blog post
+#+BEGIN_EXAMPLE
+XXX, could you spare me a few minutes to review my new blog post?
+https://www.dennyzhang.com/docker_monitor
+
+I want to listen to your feedback, before I publish it.
+If you're too busy for this, surely I can understand. Thanks!
+#+END_EXAMPLE
+*** doc: Reply When People Admire Your Posts
+Savitoj, glad to hear that! I like to discuss DevOps questions in Linkedin, and blogging. Please be my friend, and join us in the discussions!
+
+#+BEGIN_EXAMPLE
+Hey Denny,  Glad to see we share a professional connection here. I have started following your blog and honestly, I love it (so far).  Thank you again, Have a great day ahead!  Regards, Savitoj Singh
+10:03 AM
+Denny Zhang sent the following message at 10:05 AM
+Savitoj, glad to hear that!   I like to discuss DevOps questions in Linkedin, and blogging.  Please be my friend, and join us in the discussions!
+10:05 AM
+Savitoj Singh sent the following message at 10:16 AM
+ Savitoj Singh
+Would you mind providing me the link to the group? I will be glad to be a part of that group and contribute the ways I could be.  Thanks
+10:16 AM
+Denny Zhang sent the following message at 10:18 AM
+LOL, I don't maintain the Linkedin group.  (Frankly speaking, I find more Ads than useful posts there)  If you can poll my Linkedin updates, you will see the discussions.
+10:18 AM
+Savitoj Singh sent the following message at 10:19 AM
+ Savitoj Singh
+Awesome. :)
+#+END_EXAMPLE
+*** doc: say sorry
+- We apologize for any confusion about ...
+*** Blog Writing Template                                          :noexport:
+Format:
+- support coloring: [[color:#c7254e][test
+
+[[image-blog:9 Useful Tips For Linux Server Security][
+
+[[image-linkedin:
+[[image-linkedin:Get Notifcation: Monitor Your Docker Image Sizing][https://www.dennyzhang.com/wp-content/uploads/denny/linkedin_codecheck.png]]
+
+[[image-github:
+
+[[image-github:https://github.com/DennyZhang/monitor-docker-slack][https://www.dennyzhang.com/wp-content/uploads/denny/github-docker-monitor-container.png]]
+ 
+[[url-external:
+[[url-external:LinkedIn Discussion][https://www.linkedin.com/feed/update/urn:li:activity:6282693138029043712]]
+
+Requirement:
+- Mobile adaptive: Line wrap at 45
+- Small icon for wechat: 300x300, over 40 KB
+
+- bold: *No Guarantee Of Assumption*.
+- Use statements of we/our rather than you/your, especially when talking about negative things
+- add to tail of the post: More Reading: [[
+- http link: https://github.com/DennyZhang/devops_public/tree/tag_v6/python/detect_suspicious_process
+- http link: https://raw.githubusercontent.com/DennyZhang/devops_public/master/frontend/org-mode-blog.css
+- underline: _Here we wait for a while (10 seconds) in between_.
+- page jump: https://www.dennyzhang.com/false_negative/#sec-1-3
+
+Update Per Audience Feedback:
+- Thanks to [[https://www.linkedin.com/groups/6585254/6585254-6191239865645010946][Daniel Hopper]]: Try [[https://ngrok.com][ngrok,]] Secure tunnels to localhost. Your traffic will go through ngrok's server. It may impose some network penalty. Use ngrok for a quick solution, as long as the latency and security satisfy you. Even if you're a frequent user of ngrok, I still recommend you to go over this post. It helps us to better understand the trick under the scene.
+** Recommended Resource
+*** Book: Contagious. Why Things Catch On
+- Contagious: Why Things Catch On by Jonah Berger. [[https://www.amazon.com/gp/product/1451686587/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1451686587&linkCode=as2&tag=dennyzhang-20&linkId=2e380926eec0d144e0648f532e1ad78e][Amazon purchase Link]].
