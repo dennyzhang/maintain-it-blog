@@ -222,9 +222,4 @@ Want to ask for comments and sharing:
 
 ## Recommended Books<a id="sec-1-6" name="sec-1-6"></a>
 
--   <a id="Contagious:-Why-Things-Catch-On" name="Contagious:-Why-Things-Catch-On"></a> by Jonah Berger.
-
-<iframe style="width: 120px; height: 240px;" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=US&amp;source=ac&amp;ref=qf_sp_asin_til&amp;ad_type=product_link&amp;tracking_id=dennyzhang-20&amp;marketplace=amazon&amp;region=US&amp;placement=149192912X&amp;asins=149192912X&amp;linkId=2597588f2e45ec8d7582fd8e46108cc0&amp;show_border=false&amp;link_opens_in_new_window=false&amp;price_color=333333&amp;title_color=0066c0&amp;bg_color=ffffff" width="300" height="150" frameborder="0" marginwidth="0" marginheight="0" scrolling="no">
-</iframe>
-
-<a target="\_blank" href="<https://www.amazon.com/gp/product/1451686587/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1451686587&linkCode=as2&tag=dennyzhang-20&linkId=2e380926eec0d144e0648f532e1ad78e>">Contagious: Why Things Catch On</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=dennyzhang-20&l=am2&o=1&a=1451686587" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a id="Contagious:-Why-Things-Catch-On" name="Contagious:-Why-Things-Catch-On"></a> by Jonah Berger. [Amazon purchase Link](https://www.amazon.com/gp/product/1451686587/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1451686587&linkCode=as2&tag=dennyzhang-20&linkId=2e380926eec0d144e0648f532e1ad78e).
