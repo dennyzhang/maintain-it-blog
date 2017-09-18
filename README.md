@@ -65,7 +65,8 @@
 
 ### Only Share Tips You Actively Use Everyday<a id="sec-1-1-1" name="sec-1-1-1"></a>
 
-If you need it quite often, people in the same field may also need it  
+-   If you need it quite often, people in the same field may also need it
+-   Live knowledge will grow and evolve.
 
 ### Explore GitHub For Certain Topics<a id="sec-1-1-2" name="sec-1-1-2"></a>
 
