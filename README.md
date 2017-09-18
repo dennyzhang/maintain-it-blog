@@ -19,14 +19,14 @@
 <li><a href="#sec-1-2-4">1.2.4. People are impatient</a></li>
 </ul>
 </li>
-<li><a href="#sec-1-3">1.3. Routine tasks</a>
+<li><a href="#sec-1-3">1.3. General Process</a></li>
+<li><a href="#sec-1-4">1.4. Routine tasks</a>
 <ul>
-<li><a href="#sec-1-3-1">1.3.1. Check Errors from Google webmaster</a></li>
-<li><a href="#sec-1-3-2">1.3.2. List all new URLs link to your blog, and reach out them</a></li>
-<li><a href="#sec-1-3-3">1.3.3. Weekly review your old and popular posts: re-activate them</a></li>
+<li><a href="#sec-1-4-1">1.4.1. Check Errors from Google webmaster</a></li>
+<li><a href="#sec-1-4-2">1.4.2. List all new URLs link to your blog, and reach out them</a></li>
+<li><a href="#sec-1-4-3">1.4.3. Weekly review your old and popular posts: re-activate them</a></li>
 </ul>
 </li>
-<li><a href="#sec-1-4">1.4. General Process</a></li>
 <li><a href="#sec-1-5">1.5. Doc Template For Engagement</a>
 <ul>
 <li><a href="#sec-1-5-1">1.5.1. Ask people to share</a></li>
@@ -92,19 +92,7 @@ Ask people:
 
 Let them get your idea in 3 seconds.  
 
-## Routine tasks<a id="sec-1-3" name="sec-1-3"></a>
-
-### Check Errors from Google webmaster<a id="sec-1-3-1" name="sec-1-3-1"></a>
-
--   google Crawl -> Crawl Errors: [Link](https://www.google.com/webmasters/tools/crawl-errors?hl=en&siteUrl=https://www.dennyzhang.com/#t2=3)
-
-### List all new URLs link to your blog, and reach out them<a id="sec-1-3-2" name="sec-1-3-2"></a>
-
-### Weekly review your old and popular posts: re-activate them<a id="sec-1-3-3" name="sec-1-3-3"></a>
-
-Yes, in blogging world, quantity over quality. But don't forget to re-activate your own posts.  
-
-## General Process<a id="sec-1-4" name="sec-1-4"></a>
+## General Process<a id="sec-1-3" name="sec-1-3"></a>
 
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
@@ -190,6 +178,18 @@ Yes, in blogging world, quantity over quality. But don't forget to re-activate y
 </tr>
 </tbody>
 </table>
+
+## Routine tasks<a id="sec-1-4" name="sec-1-4"></a>
+
+### Check Errors from Google webmaster<a id="sec-1-4-1" name="sec-1-4-1"></a>
+
+-   google Crawl -> Crawl Errors: [Link](https://www.google.com/webmasters/tools/crawl-errors?hl=en&siteUrl=https://www.dennyzhang.com/#t2=3)
+
+### List all new URLs link to your blog, and reach out them<a id="sec-1-4-2" name="sec-1-4-2"></a>
+
+### Weekly review your old and popular posts: re-activate them<a id="sec-1-4-3" name="sec-1-4-3"></a>
+
+Yes, in blogging world, quantity over quality. But don't forget to re-activate your own posts.  
 
 ## Doc Template For Engagement<a id="sec-1-5" name="sec-1-5"></a>
 
