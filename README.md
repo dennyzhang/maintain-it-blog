@@ -6,36 +6,37 @@
 <ul>
 <li><a href="#sec-1-1">1.1. Topics For IT Writing</a>
 <ul>
-<li><a href="#sec-1-1-1">1.1.1. Only Share Tips You Activately Use Everyday</a></li>
+<li><a href="#sec-1-1-1">1.1.1. Only Share Tips You Actively Use Everyday</a></li>
 <li><a href="#sec-1-1-2">1.1.2. Explore Github For Certain Topics</a></li>
 <li><a href="#sec-1-1-3">1.1.3. Introduce Latest Tech Trends In Your Field</a></li>
 </ul>
 </li>
-<li><a href="#sec-1-2">1.2. Lessons Learned</a>
+<li><a href="#sec-1-2">1.2. Write Catchy Headlines &amp; Engaging Intro</a></li>
+<li><a href="#sec-1-3">1.3. Lessons Learned</a>
 <ul>
-<li><a href="#sec-1-2-1">1.2.1. How To Write</a></li>
-<li><a href="#sec-1-2-2">1.2.2. How To Promote</a></li>
-<li><a href="#sec-1-2-3">1.2.3. How To Beneifts</a></li>
+<li><a href="#sec-1-3-1">1.3.1. How To Write</a></li>
+<li><a href="#sec-1-3-2">1.3.2. How To Promote</a></li>
+<li><a href="#sec-1-3-3">1.3.3. How To Benefit</a></li>
 </ul>
 </li>
-<li><a href="#sec-1-3">1.3. General Process</a></li>
-<li><a href="#sec-1-4">1.4. Routine Tasks</a>
+<li><a href="#sec-1-4">1.4. General Process</a></li>
+<li><a href="#sec-1-5">1.5. Routine Tasks</a>
 <ul>
-<li><a href="#sec-1-4-1">1.4.1. Examine blogs via Google webmaster and Google Pagespeed</a></li>
-<li><a href="#sec-1-4-2">1.4.2. List all new URLs link to your blog, and reach out them</a></li>
-<li><a href="#sec-1-4-3">1.4.3. Weekly review your old and popular posts: re-activate them</a></li>
+<li><a href="#sec-1-5-1">1.5.1. Examine blogs via Google webmaster and Google Pagespeed</a></li>
+<li><a href="#sec-1-5-2">1.5.2. List all new URLs link to your blog, and reach out them</a></li>
+<li><a href="#sec-1-5-3">1.5.3. Weekly review your old and popular posts: re-activate them</a></li>
 </ul>
 </li>
-<li><a href="#sec-1-5">1.5. Role Models</a></li>
-<li><a href="#sec-1-6">1.6. Doc Template</a>
+<li><a href="#sec-1-6">1.6. Role Models</a></li>
+<li><a href="#sec-1-7">1.7. Doc Template</a>
 <ul>
-<li><a href="#sec-1-6-1">1.6.1. Ask people to share</a></li>
-<li><a href="#sec-1-6-2">1.6.2. Doc Template: Ask people to review my blog post</a></li>
+<li><a href="#sec-1-7-1">1.7.1. Ask people to share</a></li>
+<li><a href="#sec-1-7-2">1.7.2. Doc Template: Ask people to review my blog post</a></li>
 </ul>
 </li>
-<li><a href="#sec-1-7">1.7. Recommended Resource</a>
+<li><a href="#sec-1-8">1.8. Recommended Resource</a>
 <ul>
-<li><a href="#sec-1-7-1">1.7.1. Book: Contagious. Why Things Catch On</a></li>
+<li><a href="#sec-1-8-1">1.8.1. Book: Contagious. Why Things Catch On</a></li>
 </ul>
 </li>
 </ul>
@@ -58,21 +59,33 @@
 
 ## Topics For IT Writing<a id="sec-1-1" name="sec-1-1"></a>
 
-### Only Share Tips You Activately Use Everyday<a id="sec-1-1-1" name="sec-1-1-1"></a>
+### Only Share Tips You Actively Use Everyday<a id="sec-1-1-1" name="sec-1-1-1"></a>
 
-If you need it quite often, some people in the same field will also need it  
+If you need it quite often, people in the same field may also need it  
 
 ### Explore Github For Certain Topics<a id="sec-1-1-2" name="sec-1-1-2"></a>
 
-Let's say you want to write a blog post of "tmux". Try all popular Github repos related to "tmux". Understand their beautify and strengths, then write a blog post. If necessary, start your own github repo about "tmux"  
+Let's say you want to write a blog post of "tmux". Try all popular Github repos related to "tmux". Understand their beautify and strengths, then write a blog post. If necessary, start your own github repo about "tmux".  
 
 ### Introduce Latest Tech Trends In Your Field<a id="sec-1-1-3" name="sec-1-1-3"></a>
 
 Explore new things, and introduce them in a simple and easy language  
 
-## Lessons Learned<a id="sec-1-2" name="sec-1-2"></a>
+## Write Catchy Headlines & Engaging Intro<a id="sec-1-2" name="sec-1-2"></a>
 
-### How To Write<a id="sec-1-2-1" name="sec-1-2-1"></a>
+<http://www.copyblogger.com/10-sure-fire-headline-formulas-that-work/>  
+
+-   Who Else Wants [a Higher Paying Job]?
+-   The Secret of [Getting Your Home Loan Approved]
+-   Here is a Method That is Helping [Bloggers] To [Write Better Post Titles]
+-   Little Known Ways to [Lose Weight Quickly and Safely]
+-   Get Rid of [Your Unproductive Work Habits] Once and For All
+-   Here’s a Quick Way to [Backup Your Hard Drive]
+-   Now You Can [Quit Your Job] and [Make Even More Money]
+
+## Lessons Learned<a id="sec-1-3" name="sec-1-3"></a>
+
+### How To Write<a id="sec-1-3-1" name="sec-1-3-1"></a>
 
 -   Visualize Your Audience And Use Case, And Talk To Them.
 
@@ -90,7 +103,7 @@ If you can't deliver your thinking smoothly. People will simply leave. They don'
 
 People like meaningful details.  
 
-### How To Promote<a id="sec-1-2-2" name="sec-1-2-2"></a>
+### How To Promote<a id="sec-1-3-2" name="sec-1-3-2"></a>
 
 -   Focus on your quality, instead of spreading to a bigger audience.
 
@@ -106,7 +119,7 @@ The main objective is not about bringing more traffic to your blog. It's about l
 
 You're not competitors. You help each other to grow stronger and do better.  
 
-### How To Beneifts<a id="sec-1-2-3" name="sec-1-2-3"></a>
+### How To Benefit<a id="sec-1-3-3" name="sec-1-3-3"></a>
 
 -   Ask people to take small actions.
 
@@ -120,7 +133,7 @@ Ask people:
 4.  Share with their friends
 5.  Leave you comments
 
-## General Process<a id="sec-1-3" name="sec-1-3"></a>
+## General Process<a id="sec-1-4" name="sec-1-4"></a>
 
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
@@ -201,27 +214,27 @@ Ask people:
 </tbody>
 </table>
 
-## Routine Tasks<a id="sec-1-4" name="sec-1-4"></a>
+## Routine Tasks<a id="sec-1-5" name="sec-1-5"></a>
 
-### Examine blogs via Google webmaster and Google Pagespeed<a id="sec-1-4-1" name="sec-1-4-1"></a>
+### Examine blogs via Google webmaster and Google Pagespeed<a id="sec-1-5-1" name="sec-1-5-1"></a>
 
 1.  Google Crawl -> Crawl Errors: [Link](https://www.google.com/webmasters/tools/crawl-errors?hl=en&siteUrl=https://www.dennyzhang.com/#t2=3)
 2.  The blog should loads within 3 seconds: [link](https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fwww.dennyzhang.com%2F)
 
-### List all new URLs link to your blog, and reach out them<a id="sec-1-4-2" name="sec-1-4-2"></a>
+### List all new URLs link to your blog, and reach out them<a id="sec-1-5-2" name="sec-1-5-2"></a>
 
-1.  Send them thankyou note
+1.  Send them thank-you note
 2.  Understand what drives them to do that
 
-### Weekly review your old and popular posts: re-activate them<a id="sec-1-4-3" name="sec-1-4-3"></a>
+### Weekly review your old and popular posts: re-activate them<a id="sec-1-5-3" name="sec-1-5-3"></a>
 
 Yes, in blogging world, quantity over quality. But don't forget to re-activate your own posts.  
 
-## Role Models<a id="sec-1-5" name="sec-1-5"></a>
+## Role Models<a id="sec-1-6" name="sec-1-6"></a>
 
-## Doc Template<a id="sec-1-6" name="sec-1-6"></a>
+## Doc Template<a id="sec-1-7" name="sec-1-7"></a>
 
-### Ask people to share<a id="sec-1-6-1" name="sec-1-6-1"></a>
+### Ask people to share<a id="sec-1-7-1" name="sec-1-7-1"></a>
 
 As always, please share if you enjoy it!  
 
@@ -230,7 +243,7 @@ Want to ask for comments and sharing:
     http://www.blogtyrant.com/get-more-email-subscribers/
     As always, I’ve probably forgot a lot of really cool things. Leave a comment down below if you have any effective strategies you’d like to share. Oh, and please give this a share if you have a second cos it took a while to put together!
 
-### Doc Template: Ask people to review my blog post<a id="sec-1-6-2" name="sec-1-6-2"></a>
+### Doc Template: Ask people to review my blog post<a id="sec-1-7-2" name="sec-1-7-2"></a>
 
     XXX, could you spare me a few minutes to review my new blog post?
     https://www.dennyzhang.com/docker_monitor
@@ -238,8 +251,8 @@ Want to ask for comments and sharing:
     I want to listen to your feedback, before I publish it.
     If you're too busy for this, surely I can understand. Thanks!
 
-## Recommended Resource<a id="sec-1-7" name="sec-1-7"></a>
+## Recommended Resource<a id="sec-1-8" name="sec-1-8"></a>
 
-### Book: Contagious. Why Things Catch On<a id="sec-1-7-1" name="sec-1-7-1"></a>
+### Book: Contagious. Why Things Catch On<a id="sec-1-8-1" name="sec-1-8-1"></a>
 
 -   Contagious: Why Things Catch On by Jonah Berger. [Amazon purchase Link](https://www.amazon.com/gp/product/1451686587/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1451686587&linkCode=as2&tag=dennyzhang-20&linkId=2e380926eec0d144e0648f532e1ad78e).
