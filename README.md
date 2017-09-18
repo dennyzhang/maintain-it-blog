@@ -24,7 +24,7 @@
 <li><a href="#sec-1-3">1.3. General Process</a></li>
 <li><a href="#sec-1-4">1.4. Routine tasks</a>
 <ul>
-<li><a href="#sec-1-4-1">1.4.1. Check Errors from Google webmaster</a></li>
+<li><a href="#sec-1-4-1">1.4.1. Examine blogs via Google webmaster and Google Pagespeed</a></li>
 <li><a href="#sec-1-4-2">1.4.2. List all new URLs link to your blog, and reach out them</a></li>
 <li><a href="#sec-1-4-3">1.4.3. Weekly review your old and popular posts: re-activate them</a></li>
 </ul>
@@ -187,14 +187,15 @@ You're not competitors. You help each other to grow stronger and do better.
 
 ## Routine tasks<a id="sec-1-4" name="sec-1-4"></a>
 
-### Check Errors from Google webmaster<a id="sec-1-4-1" name="sec-1-4-1"></a>
+### Examine blogs via Google webmaster and Google Pagespeed<a id="sec-1-4-1" name="sec-1-4-1"></a>
 
--   google Crawl -> Crawl Errors: [Link](https://www.google.com/webmasters/tools/crawl-errors?hl=en&siteUrl=https://www.dennyzhang.com/#t2=3)
+1.  Google Crawl -> Crawl Errors: [Link](https://www.google.com/webmasters/tools/crawl-errors?hl=en&siteUrl=https://www.dennyzhang.com/#t2=3)
+2.  The blog should loads within 3 seconds: [link](https://developers.google.com/speed/pagespeed/insights/)
 
 ### List all new URLs link to your blog, and reach out them<a id="sec-1-4-2" name="sec-1-4-2"></a>
 
 1.  Send them thankyou note
-2.  Understand what makes them doing that
+2.  Understand what drives them to do that
 
 ### Weekly review your old and popular posts: re-activate them<a id="sec-1-4-3" name="sec-1-4-3"></a>
 
@@ -221,4 +222,9 @@ Want to ask for comments and sharing:
 
 ## Recommended Books<a id="sec-1-6" name="sec-1-6"></a>
 
--   TODO
+-   <a id="Contagious:-Why-Things-Catch-On" name="Contagious:-Why-Things-Catch-On"></a> by Jonah Berger.
+
+<iframe style="width: 120px; height: 240px;" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=US&amp;source=ac&amp;ref=qf_sp_asin_til&amp;ad_type=product_link&amp;tracking_id=dennyzhang-20&amp;marketplace=amazon&amp;region=US&amp;placement=149192912X&amp;asins=149192912X&amp;linkId=2597588f2e45ec8d7582fd8e46108cc0&amp;show_border=false&amp;link_opens_in_new_window=false&amp;price_color=333333&amp;title_color=0066c0&amp;bg_color=ffffff" width="300" height="150" frameborder="0" marginwidth="0" marginheight="0" scrolling="no">
+</iframe>
+
+<a target="\_blank" href="<https://www.amazon.com/gp/product/1451686587/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1451686587&linkCode=as2&tag=dennyzhang-20&linkId=2e380926eec0d144e0648f532e1ad78e>">Contagious: Why Things Catch On</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=dennyzhang-20&l=am2&o=1&a=1451686587" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
