@@ -103,9 +103,10 @@ Watch and observe others in the same field first.
 *** Weekly review your old and popular posts: re-activate them
 Yes, in blogging world, quantity over quality. But don't forget to re-activate your own posts.
 ** Role Models
-** Secure And Speed Up Your Blog
+** Secure And Speed
 *** About security
 - wp-config.php: Changing The Site URL
+
 #+BEGIN_EXAMPLE
 https://codex.wordpress.org/Changing_The_Site_URL
 define('WP_HOME','http://example.com');

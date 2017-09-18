@@ -34,7 +34,7 @@
 </ul>
 </li>
 <li><a href="#sec-1-7">1.7. Role Models</a></li>
-<li><a href="#sec-1-8">1.8. Secure And Speed Up Your Blog</a>
+<li><a href="#sec-1-8">1.8. Secure And Speed</a>
 <ul>
 <li><a href="#sec-1-8-1">1.8.1. About security</a></li>
 <li><a href="#sec-1-8-2">1.8.2. Speed up</a></li>
@@ -277,7 +277,7 @@ Yes, in blogging world, quantity over quality. But don't forget to re-activate y
 
 ## Role Models<a id="sec-1-7" name="sec-1-7"></a>
 
-## Secure And Speed Up Your Blog<a id="sec-1-8" name="sec-1-8"></a>
+## Secure And Speed<a id="sec-1-8" name="sec-1-8"></a>
 
 ### About security<a id="sec-1-8-1" name="sec-1-8-1"></a>
 
