@@ -25,10 +25,26 @@ Let's say you want to write a blog post of "tmux".
 *** Introduce Latest Tech Trends In Your Field
 Explore new things, and introduce them in a simple and easy language
 ** Lessons Learned
-*** How To Write
+*** How To Write Catchy Headlines
+Different types:
+- Benefit-driven subject lines: What's in it for me?
+- Curiosity-driven subject lines
+
+More examples:
+- Who Else Wants [a Higher Paying Job]?
+- The Secret of [Getting Your Home Loan Approved]
+- Here is a Method That is Helping [Bloggers] To [Write Better Post Titles]
+- Little Known Ways to [Lose Weight Quickly and Safely]
+- Get Rid of [Your Unproductive Work Habits] Once and For All
+- Here’s a Quick Way to [Backup Your Hard Drive]
+- Now You Can [Quit Your Job] and [Make Even More Money]
+
+Reading reading: [[http://www.copyblogger.com/10-sure-fire-headline-formulas-that-work/][link]]
+
 - People are impatient
 You only have 3-5 seconds to convince people to keep reading. Use signal words: help people to scan through your text
 
+*** How To Write Contagious Content
 - Visualize Your Audience And Use Case, And "Talk" To Them.
 I talk to the audience/customers virtually. This would help to improve engaging people.
 
@@ -40,7 +56,6 @@ If you can't deliver your thinking smoothly. People will simply leave. They don'
 
 - Use of transition words
 show readers you are summarizing, comparing or concluding something.
-
 *** How To Promote
 - Focus on your quality, instead of spreading to a bigger audience.
 Bring crappy resource to a bigger audience? Do you really think it's a good thing, instead of a bad thing?
@@ -66,21 +81,6 @@ Ask people:
 - Send you private messages
 - Share with their friends
 - Leave you comments
-** Write Catchy Headlines
-Different types:
-- Benefit-driven subject lines: What's in it for me?
-- Curiosity-driven subject lines
-
-More examples:
-- Who Else Wants [a Higher Paying Job]?
-- The Secret of [Getting Your Home Loan Approved]
-- Here is a Method That is Helping [Bloggers] To [Write Better Post Titles]
-- Little Known Ways to [Lose Weight Quickly and Safely]
-- Get Rid of [Your Unproductive Work Habits] Once and For All
-- Here’s a Quick Way to [Backup Your Hard Drive]
-- Now You Can [Quit Your Job] and [Make Even More Money]
-
-Reading reading: [[http://www.copyblogger.com/10-sure-fire-headline-formulas-that-work/][link]]
 ** [#A] Open Issues
 *** How To Find Similar Blogs
 Watch and observe others in the same field first.

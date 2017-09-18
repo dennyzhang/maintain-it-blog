@@ -13,54 +13,54 @@
 </li>
 <li><a href="#sec-1-2">1.2. Lessons Learned</a>
 <ul>
-<li><a href="#sec-1-2-1">1.2.1. How To Write</a></li>
-<li><a href="#sec-1-2-2">1.2.2. How To Promote</a></li>
-<li><a href="#sec-1-2-3">1.2.3. How To Get Benefits</a></li>
+<li><a href="#sec-1-2-1">1.2.1. How To Write Catchy Headlines</a></li>
+<li><a href="#sec-1-2-2">1.2.2. How To Write Contagious Content</a></li>
+<li><a href="#sec-1-2-3">1.2.3. How To Promote</a></li>
+<li><a href="#sec-1-2-4">1.2.4. How To Get Benefits</a></li>
 </ul>
 </li>
-<li><a href="#sec-1-3">1.3. Write Catchy Headlines</a></li>
-<li><a href="#sec-1-4">1.4. Open Issues</a>
+<li><a href="#sec-1-3">1.3. Open Issues</a>
 <ul>
-<li><a href="#sec-1-4-1">1.4.1. How To Find Similar Blogs</a></li>
-<li><a href="#sec-1-4-2">1.4.2. Find Good and qualified Icons quickly</a></li>
+<li><a href="#sec-1-3-1">1.3.1. How To Find Similar Blogs</a></li>
+<li><a href="#sec-1-3-2">1.3.2. Find Good and qualified Icons quickly</a></li>
 </ul>
 </li>
-<li><a href="#sec-1-5">1.5. General Process</a></li>
-<li><a href="#sec-1-6">1.6. Routine Tasks</a>
+<li><a href="#sec-1-4">1.4. General Process</a></li>
+<li><a href="#sec-1-5">1.5. Routine Tasks</a>
 <ul>
-<li><a href="#sec-1-6-1">1.6.1. Examine blogs via Google webmaster and Google Pagespeed</a></li>
-<li><a href="#sec-1-6-2">1.6.2. List all new URLs link to your blog, and reach out them</a></li>
-<li><a href="#sec-1-6-3">1.6.3. Weekly review your old and popular posts: re-activate them</a></li>
+<li><a href="#sec-1-5-1">1.5.1. Examine blogs via Google webmaster and Google Pagespeed</a></li>
+<li><a href="#sec-1-5-2">1.5.2. List all new URLs link to your blog, and reach out them</a></li>
+<li><a href="#sec-1-5-3">1.5.3. Weekly review your old and popular posts: re-activate them</a></li>
 </ul>
 </li>
-<li><a href="#sec-1-7">1.7. Role Models</a></li>
-<li><a href="#sec-1-8">1.8. Secure And Speed</a>
+<li><a href="#sec-1-6">1.6. Role Models</a></li>
+<li><a href="#sec-1-7">1.7. Secure And Speed</a>
 <ul>
-<li><a href="#sec-1-8-1">1.8.1. About security</a></li>
-<li><a href="#sec-1-8-2">1.8.2. Speed up</a></li>
+<li><a href="#sec-1-7-1">1.7.1. About security</a></li>
+<li><a href="#sec-1-7-2">1.7.2. Speed up</a></li>
 </ul>
 </li>
-<li><a href="#sec-1-9">1.9. Images &amp; GiF &amp; InfoGraphics</a>
+<li><a href="#sec-1-8">1.8. Images &amp; GiF &amp; InfoGraphics</a>
 <ul>
-<li><a href="#sec-1-9-1">1.9.1. InfoGraphics</a></li>
-<li><a href="#sec-1-9-2">1.9.2. Remove Background Color In MacOS</a></li>
-<li><a href="#sec-1-9-3">1.9.3. Find Funny GIF Pictures</a></li>
+<li><a href="#sec-1-8-1">1.8.1. InfoGraphics</a></li>
+<li><a href="#sec-1-8-2">1.8.2. Remove Background Color In MacOS</a></li>
+<li><a href="#sec-1-8-3">1.8.3. Find Funny GIF Pictures</a></li>
 </ul>
 </li>
-<li><a href="#sec-1-10">1.10. Doc Template</a>
+<li><a href="#sec-1-9">1.9. Doc Template</a>
 <ul>
-<li><a href="#sec-1-10-1">1.10.1. Doc: Write A New Blog Post</a></li>
-<li><a href="#sec-1-10-2">1.10.2. Doc: Ask People To Share</a></li>
-<li><a href="#sec-1-10-3">1.10.3. Doc: Ask People To Review</a></li>
-<li><a href="#sec-1-10-4">1.10.4. Doc: Reply When People Admire Your Posts</a></li>
-<li><a href="#sec-1-10-5">1.10.5. Doc: examples of transition words</a></li>
-<li><a href="#sec-1-10-6">1.10.6. Doc: say sorry</a></li>
+<li><a href="#sec-1-9-1">1.9.1. Doc: Write A New Blog Post</a></li>
+<li><a href="#sec-1-9-2">1.9.2. Doc: Ask People To Share</a></li>
+<li><a href="#sec-1-9-3">1.9.3. Doc: Ask People To Review</a></li>
+<li><a href="#sec-1-9-4">1.9.4. Doc: Reply When People Admire Your Posts</a></li>
+<li><a href="#sec-1-9-5">1.9.5. Doc: examples of transition words</a></li>
+<li><a href="#sec-1-9-6">1.9.6. Doc: say sorry</a></li>
 </ul>
 </li>
-<li><a href="#sec-1-11">1.11. Recommended Resources</a>
+<li><a href="#sec-1-10">1.10. Recommended Resources</a>
 <ul>
-<li><a href="#sec-1-11-1">1.11.1. Book: Contagious. Why Things Catch On</a></li>
-<li><a href="#sec-1-11-2">1.11.2. Web pages</a></li>
+<li><a href="#sec-1-10-1">1.10.1. Book: Contagious. Why Things Catch On</a></li>
+<li><a href="#sec-1-10-2">1.10.2. Web pages</a></li>
 </ul>
 </li>
 </ul>
@@ -103,63 +103,7 @@ Explore new things, and introduce them in a simple and easy language
 
 ## Lessons Learned<a id="sec-1-2" name="sec-1-2"></a>
 
-### How To Write<a id="sec-1-2-1" name="sec-1-2-1"></a>
-
--   People are impatient
-
-You only have 3-5 seconds to convince people to keep reading. Use signal words: help people to scan through your text  
-
--   Visualize Your Audience And Use Case, And "Talk" To Them.
-
-I talk to the audience/customers virtually. This would help to improve engaging people.  
-
--   Avoid using vague or fuzzy statement.
-
-People like meaningful details.  
-
--   Make the reading fluid.
-
-If you can't deliver your thinking smoothly. People will simply leave. They don't even bother to leave you a complain.  
-
--   Use of transition words
-
-show readers you are summarizing, comparing or concluding something.  
-
-### How To Promote<a id="sec-1-2-2" name="sec-1-2-2"></a>
-
--   Focus on your quality, instead of spreading to a bigger audience.
-
-Bring crappy resource to a bigger audience? Do you really think it's a good thing, instead of a bad thing?  
-
--   Improve interlinks, thus people read more posts in your blog
-
--   Your Friends To Review Your New Posts.
-
-You should have friends working in the same field. If your new doesn't serve your friends well, it won't work well for others.  
-
--   Leave comments to similar blogs
-
-The main objective is not about bringing more traffic to your blog. It's about learning things from other bloggers, and make friends with them.  
-
-You're not competitors. You help each other to grow stronger and do better.  
-
-### How To Get Benefits<a id="sec-1-2-3" name="sec-1-2-3"></a>
-
--   If your posts don't connvince people taking actions, your influence is low to the audience.
-
--   Ask people to take small actions.
-
-Blogging is about convincing. Make people take actions.  
-
-Ask people:  
-
-1.  Try your advice in 5 minutes
-2.  Follow you in SNS(LinkedIn, GitHub, etc)
-3.  Send you private messages
-4.  Share with their friends
-5.  Leave you comments
-
-## Write Catchy Headlines<a id="sec-1-3" name="sec-1-3"></a>
+### How To Write Catchy Headlines<a id="sec-1-2-1" name="sec-1-2-1"></a>
 
 Different types:  
 
@@ -178,17 +122,73 @@ More examples:
 
 Reading reading: [link](http://www.copyblogger.com/10-sure-fire-headline-formulas-that-work/)  
 
-## Open Issues<a id="sec-1-4" name="sec-1-4"></a>
+-   People are impatient
 
-### How To Find Similar Blogs<a id="sec-1-4-1" name="sec-1-4-1"></a>
+You only have 3-5 seconds to convince people to keep reading. Use signal words: help people to scan through your text  
+
+### How To Write Contagious Content<a id="sec-1-2-2" name="sec-1-2-2"></a>
+
+-   Visualize Your Audience And Use Case, And "Talk" To Them.
+
+I talk to the audience/customers virtually. This would help to improve engaging people.  
+
+-   Avoid using vague or fuzzy statement.
+
+People like meaningful details.  
+
+-   Make the reading fluid.
+
+If you can't deliver your thinking smoothly. People will simply leave. They don't even bother to leave you a complain.  
+
+-   Use of transition words
+
+show readers you are summarizing, comparing or concluding something.  
+
+### How To Promote<a id="sec-1-2-3" name="sec-1-2-3"></a>
+
+-   Focus on your quality, instead of spreading to a bigger audience.
+
+Bring crappy resource to a bigger audience? Do you really think it's a good thing, instead of a bad thing?  
+
+-   Improve interlinks, thus people read more posts in your blog
+
+-   Your Friends To Review Your New Posts.
+
+You should have friends working in the same field. If your new doesn't serve your friends well, it won't work well for others.  
+
+-   Leave comments to similar blogs
+
+The main objective is not about bringing more traffic to your blog. It's about learning things from other bloggers, and make friends with them.  
+
+You're not competitors. You help each other to grow stronger and do better.  
+
+### How To Get Benefits<a id="sec-1-2-4" name="sec-1-2-4"></a>
+
+-   If your posts don't connvince people taking actions, your influence is low to the audience.
+
+-   Ask people to take small actions.
+
+Blogging is about convincing. Make people take actions.  
+
+Ask people:  
+
+1.  Try your advice in 5 minutes
+2.  Follow you in SNS(LinkedIn, GitHub, etc)
+3.  Send you private messages
+4.  Share with their friends
+5.  Leave you comments
+
+## Open Issues<a id="sec-1-3" name="sec-1-3"></a>
+
+### How To Find Similar Blogs<a id="sec-1-3-1" name="sec-1-3-1"></a>
 
 Watch and observe others in the same field first.  
 
-### Find Good and qualified Icons quickly<a id="sec-1-4-2" name="sec-1-4-2"></a>
+### Find Good and qualified Icons quickly<a id="sec-1-3-2" name="sec-1-3-2"></a>
 
 -   TODO
 
-## General Process<a id="sec-1-5" name="sec-1-5"></a>
+## General Process<a id="sec-1-4" name="sec-1-4"></a>
 
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
@@ -269,27 +269,27 @@ Watch and observe others in the same field first.
 </tbody>
 </table>
 
-## Routine Tasks<a id="sec-1-6" name="sec-1-6"></a>
+## Routine Tasks<a id="sec-1-5" name="sec-1-5"></a>
 
-### Examine blogs via Google webmaster and Google Pagespeed<a id="sec-1-6-1" name="sec-1-6-1"></a>
+### Examine blogs via Google webmaster and Google Pagespeed<a id="sec-1-5-1" name="sec-1-5-1"></a>
 
 1.  Google Crawl -> Crawl Errors: [Link](https://www.google.com/webmasters/tools/crawl-errors?hl=en&siteUrl=https://www.dennyzhang.com/#t2=3)
 2.  The blog should loads within 3 seconds: [link](https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fwww.dennyzhang.com%2F)
 
-### List all new URLs link to your blog, and reach out them<a id="sec-1-6-2" name="sec-1-6-2"></a>
+### List all new URLs link to your blog, and reach out them<a id="sec-1-5-2" name="sec-1-5-2"></a>
 
 1.  Send them thank-you note
 2.  Understand what drives them to do that
 
-### Weekly review your old and popular posts: re-activate them<a id="sec-1-6-3" name="sec-1-6-3"></a>
+### Weekly review your old and popular posts: re-activate them<a id="sec-1-5-3" name="sec-1-5-3"></a>
 
 Yes, in blogging world, quantity over quality. But don't forget to re-activate your own posts.  
 
-## Role Models<a id="sec-1-7" name="sec-1-7"></a>
+## Role Models<a id="sec-1-6" name="sec-1-6"></a>
 
-## Secure And Speed<a id="sec-1-8" name="sec-1-8"></a>
+## Secure And Speed<a id="sec-1-7" name="sec-1-7"></a>
 
-### About security<a id="sec-1-8-1" name="sec-1-8-1"></a>
+### About security<a id="sec-1-7-1" name="sec-1-7-1"></a>
 
 -   wp-config.php: Changing The Site URL
 
@@ -301,7 +301,7 @@ Yes, in blogging world, quantity over quality. But don't forget to re-activate y
 
 -   wordpress avoid malicious access wp-login.php, xmlrpc.php, wp-cron.php
 
-### Speed up<a id="sec-1-8-2" name="sec-1-8-2"></a>
+### Speed up<a id="sec-1-7-2" name="sec-1-7-2"></a>
 
 -   Useful tools
 
@@ -342,9 +342,9 @@ Yes, in blogging world, quantity over quality. But don't forget to re-activate y
 
 -   Disable all non-critical plugins
 
-## Images & GiF & InfoGraphics<a id="sec-1-9" name="sec-1-9"></a>
+## Images & GiF & InfoGraphics<a id="sec-1-8" name="sec-1-8"></a>
 
-### InfoGraphics<a id="sec-1-9-1" name="sec-1-9-1"></a>
+### InfoGraphics<a id="sec-1-8-1" name="sec-1-8-1"></a>
 
 Principle:  
 
@@ -362,11 +362,11 @@ Principle:
 
 Infographics are not attempts to randomly assemble all the data you can compile. Instead, an infographic is intended to drive a single, focused point.  
 
-### Remove Background Color In MacOS<a id="sec-1-9-2" name="sec-1-9-2"></a>
+### Remove Background Color In MacOS<a id="sec-1-8-2" name="sec-1-8-2"></a>
 
 Use gimp: Color to Alfa. See more [here](https://docs.gimp.org/en/plug-in-colortoalpha.html).  
 
-### Find Funny GIF Pictures<a id="sec-1-9-3" name="sec-1-9-3"></a>
+### Find Funny GIF Pictures<a id="sec-1-8-3" name="sec-1-8-3"></a>
 
 <http://devopsreactions.tumblr.com>  
 
@@ -378,7 +378,7 @@ Use gimp: Color to Alfa. See more [here](https://docs.gimp.org/en/plug-in-colort
 <http://giphy.com/search/funny-gif>  
 <https://www.reddit.com/r/gifs/>  
 
-## Doc Template<a id="sec-1-10" name="sec-1-10"></a>
+## Doc Template<a id="sec-1-9" name="sec-1-9"></a>
 
 Principle:  
 
@@ -386,7 +386,7 @@ Principle:
 -   Don't use "WE, I" too often. Avoid use I, me
 -   Five powerful words: discover，guarantee, health, result, you
 
-### Doc: Write A New Blog Post<a id="sec-1-10-1" name="sec-1-10-1"></a>
+### Doc: Write A New Blog Post<a id="sec-1-9-1" name="sec-1-9-1"></a>
 
 -   start a blog post
 
@@ -394,7 +394,7 @@ Principle:
     Thinking that you’d like to start a blog this year? This post is for you!
     Try to solve this.
 
-### Doc: Ask People To Share<a id="sec-1-10-2" name="sec-1-10-2"></a>
+### Doc: Ask People To Share<a id="sec-1-9-2" name="sec-1-9-2"></a>
 
 As always, please share if you enjoy it!  
 
@@ -403,7 +403,7 @@ Want to ask for comments and sharing:
     http://www.blogtyrant.com/get-more-email-subscribers/
     As always, I’ve probably forgot a lot of really cool things. Leave a comment down below if you have any effective strategies you’d like to share. Oh, and please give this a share if you have a second cos it took a while to put together!
 
-### Doc: Ask People To Review<a id="sec-1-10-3" name="sec-1-10-3"></a>
+### Doc: Ask People To Review<a id="sec-1-9-3" name="sec-1-9-3"></a>
 
 -   Review my blog post
 
@@ -413,11 +413,11 @@ Want to ask for comments and sharing:
     I want to listen to your feedback, before I publish it.
     If you're too busy for this, surely I can understand. Thanks!
 
-### Doc: Reply When People Admire Your Posts<a id="sec-1-10-4" name="sec-1-10-4"></a>
+### Doc: Reply When People Admire Your Posts<a id="sec-1-9-4" name="sec-1-9-4"></a>
 
 XXX, glad to hear that! I like to discuss DevOps questions in Linkedin, and blogging. Please be my friend, and join us in the discussions!  
 
-### Doc: examples of transition words<a id="sec-1-10-5" name="sec-1-10-5"></a>
+### Doc: examples of transition words<a id="sec-1-9-5" name="sec-1-9-5"></a>
 
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
@@ -472,17 +472,17 @@ XXX, glad to hear that! I like to discuss DevOps questions in Linkedin, and blog
 </tbody>
 </table>
 
-### Doc: say sorry<a id="sec-1-10-6" name="sec-1-10-6"></a>
+### Doc: say sorry<a id="sec-1-9-6" name="sec-1-9-6"></a>
 
 -   We apologize for any confusion about ...
 
-## Recommended Resources<a id="sec-1-11" name="sec-1-11"></a>
+## Recommended Resources<a id="sec-1-10" name="sec-1-10"></a>
 
-### Book: Contagious. Why Things Catch On<a id="sec-1-11-1" name="sec-1-11-1"></a>
+### Book: Contagious. Why Things Catch On<a id="sec-1-10-1" name="sec-1-10-1"></a>
 
 -   Contagious: Why Things Catch On by Jonah Berger. [Amazon purchase Link](https://www.amazon.com/gp/product/1451686587/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1451686587&linkCode=as2&tag=dennyzhang-20&linkId=2e380926eec0d144e0648f532e1ad78e).
 
-### Web pages<a id="sec-1-11-2" name="sec-1-11-2"></a>
+### Web pages<a id="sec-1-10-2" name="sec-1-10-2"></a>
 
 -   [16 Top Tips from Blogging Experts for Beginners](https://blog.bufferapp.com/blogging-advice-for-beginners-from-16-experts)
 -   [101 Steps to Becoming a Better Blogger](http://www.lifehack.org/articles/featured/101-steps-to-becoming-a-better-blogger.html)
