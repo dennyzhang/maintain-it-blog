@@ -222,4 +222,4 @@ Want to ask for comments and sharing:
 
 ## Recommended Books<a id="sec-1-6" name="sec-1-6"></a>
 
-<a id="Contagious:-Why-Things-Catch-On" name="Contagious:-Why-Things-Catch-On"></a> by Jonah Berger. [Amazon purchase Link](https://www.amazon.com/gp/product/1451686587/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1451686587&linkCode=as2&tag=dennyzhang-20&linkId=2e380926eec0d144e0648f532e1ad78e).
+-   Contagious: Why Things Catch On by Jonah Berger. [Amazon purchase Link](https://www.amazon.com/gp/product/1451686587/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1451686587&linkCode=as2&tag=dennyzhang-20&linkId=2e380926eec0d144e0648f532e1ad78e).
