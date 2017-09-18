@@ -15,22 +15,22 @@
 --------------------------------------------------------
 ** Topics For IT Writing
 *** Only Share Tips You Actively Use Everyday
-- If you need it quite often, people in the same field may also need it
+1. If you need it quite often, people in the same field may also need it
 - Live knowledge will grow and evolve.
 *** Explore GitHub For Certain Topics
 Let's say you want to write a blog post of "tmux". 
-1. Try all popular Github repos related to "tmux". 
+1. Search and explore all popular Github repos related to "tmux". 
 - Understand their beautify and strengths, then write a blog post. 
 - If necessary, start your own github repo about "tmux".
 *** Introduce Latest Tech Trends In Your Field
 Explore new things, and introduce them in a simple and easy language
 ** Lessons Learned
 *** How To Write
-- Visualize Your Audience And Use Case, And Talk To Them.
-I talk to the audience/customers virtually. This would help to improve engaging people.
-
 - People are impatient
 You only have 3-5 seconds to convince people to keep reading
+
+- Visualize Your Audience And Use Case, And "Talk" To Them.
+I talk to the audience/customers virtually. This would help to improve engaging people.
 
 - Make the reading fluid.
 If you can't deliver your thinking smoothly. People will simply leave. They don't even bother to leave you a complain.

@@ -65,14 +65,14 @@
 
 ### Only Share Tips You Actively Use Everyday<a id="sec-1-1-1" name="sec-1-1-1"></a>
 
--   If you need it quite often, people in the same field may also need it
--   Live knowledge will grow and evolve.
+1.  If you need it quite often, people in the same field may also need it
+2.  Live knowledge will grow and evolve.
 
 ### Explore GitHub For Certain Topics<a id="sec-1-1-2" name="sec-1-1-2"></a>
 
 Let's say you want to write a blog post of "tmux".  
 
-1.  Try all popular Github repos related to "tmux".
+1.  Search and explore all popular Github repos related to "tmux".
 2.  Understand their beautify and strengths, then write a blog post.
 3.  If necessary, start your own github repo about "tmux".
 
@@ -84,13 +84,13 @@ Explore new things, and introduce them in a simple and easy language
 
 ### How To Write<a id="sec-1-2-1" name="sec-1-2-1"></a>
 
--   Visualize Your Audience And Use Case, And Talk To Them.
-
-I talk to the audience/customers virtually. This would help to improve engaging people.  
-
 -   People are impatient
 
 You only have 3-5 seconds to convince people to keep reading  
+
+-   Visualize Your Audience And Use Case, And "Talk" To Them.
+
+I talk to the audience/customers virtually. This would help to improve engaging people.  
 
 -   Make the reading fluid.
 
