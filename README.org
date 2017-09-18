@@ -106,7 +106,6 @@ Yes, in blogging world, quantity over quality. But don't forget to re-activate y
 ** Secure And Speed
 *** About security
 - wp-config.php: Changing The Site URL
-
 #+BEGIN_EXAMPLE
 https://codex.wordpress.org/Changing_The_Site_URL
 
@@ -114,6 +113,8 @@ define('WP_HOME','http://example.com');
 
 define('WP_SITEURL','http://example.com');
 #+END_EXAMPLE
+
+- wordpress avoid malicious access wp-login.php, xmlrpc.php, wp-cron.php
 *** Speed up
 - Useful tools
 | Tool                | Link                                                    |
@@ -123,6 +124,19 @@ define('WP_SITEURL','http://example.com');
 | webpagetest         | https://www.webpagetest.org                             |
 
 - Disable all non-critical plugins
+** InfoGraphics
+Principle:
+
+- An infographic is like a good story. Read more: [[https://blog.kissmetrics.com/12-infographic-tips/][here]]
+
+- Your infographic’s headline is extremely important.
+
+- Don't choose something generically popular, rather than specifically relevant to your audience.
+
+- Watch out: The words in the some infographic may become too small to read easily.
+
+- Keep it focused.
+Infographics are not attempts to randomly assemble all the data you can compile. Instead, an infographic is intended to drive a single, focused point.
 ** Image Manipulation
 *** Remove Background Color In MacOS
 Use gimp: Color to Alfa. See more [[https://docs.gimp.org/en/plug-in-colortoalpha.html][here]].
