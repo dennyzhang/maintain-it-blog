@@ -7,7 +7,7 @@
 <li><a href="#sec-1-1">1.1. Topics For IT Writing</a>
 <ul>
 <li><a href="#sec-1-1-1">1.1.1. Only Share Tips You Actively Use Everyday</a></li>
-<li><a href="#sec-1-1-2">1.1.2. Explore Github For Certain Topics</a></li>
+<li><a href="#sec-1-1-2">1.1.2. Explore GitHub For Certain Topics</a></li>
 <li><a href="#sec-1-1-3">1.1.3. Introduce Latest Tech Trends In Your Field</a></li>
 </ul>
 </li>
@@ -66,7 +66,7 @@
 
 If you need it quite often, people in the same field may also need it  
 
-### Explore Github For Certain Topics<a id="sec-1-1-2" name="sec-1-1-2"></a>
+### Explore GitHub For Certain Topics<a id="sec-1-1-2" name="sec-1-1-2"></a>
 
 Let's say you want to write a blog post of "tmux". Try all popular Github repos related to "tmux". Understand their beautify and strengths, then write a blog post. If necessary, start your own github repo about "tmux".  
 
