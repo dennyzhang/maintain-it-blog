@@ -24,7 +24,20 @@ Let's say you want to write a blog post of "tmux".
 - If necessary, start your own github repo about "tmux".
 *** Introduce Latest Tech Trends In Your Field
 Explore new things, and introduce them in a simple and easy language
-** Lessons Learned
+** Lessons Learned: About Writing
+| Stage | Summary                                 | Tool                                              |
+|-------+-----------------------------------------+---------------------------------------------------|
+|     1 | Think before you write!                 | Choose Title. It matters!                         |
+|       | Ask questions in SNS                    | Anticipate Community (LinkedIn, slack, v2ex, etc) |
+|       | Google related pages (Get SEO Keywords) | Keywords in Summary                               |
+|-------+-----------------------------------------+---------------------------------------------------|
+|     2 | Write Post                              |                                                   |
+|-------+-----------------------------------------+---------------------------------------------------|
+|     3 | Improve SEO and writing by Google posts |                                                   |
+|       | Share to SNS                            |                                                   |
+|       | Reply related discussion                |                                                   |
+|-------+-----------------------------------------+---------------------------------------------------|
+|     4 | Keep polishing old posts                |                                                   |
 *** How To Write Catchy Headlines
 Different types:
 - Benefit-driven subject lines: What's in it for me?
@@ -56,6 +69,7 @@ If you can't deliver your thinking smoothly. People will simply leave. They don'
 
 - Use of transition words
 show readers you are summarizing, comparing or concluding something.
+** Lesson Learned: Promoting & Influence
 *** How To Promote
 - Focus on your quality, instead of spreading to a bigger audience.
 Bring crappy resource to a bigger audience? Do you really think it's a good thing, instead of a bad thing?
@@ -86,20 +100,6 @@ Ask people:
 Watch and observe others in the same field first.
 *** Find Good and qualified Icons quickly
 - TODO
-** General Process
-| Stage | Summary                                 | Tool                                              |
-|-------+-----------------------------------------+---------------------------------------------------|
-|     1 | Think before you write!                 | Choose Title. It matters!                         |
-|       | Ask questions in SNS                    | Anticipate Community (LinkedIn, slack, v2ex, etc) |
-|       | Google related pages (Get SEO Keywords) | Keywords in Summary                               |
-|-------+-----------------------------------------+---------------------------------------------------|
-|     2 | Write Post                              |                                                   |
-|-------+-----------------------------------------+---------------------------------------------------|
-|     3 | Improve SEO and writing by Google posts |                                                   |
-|       | Share to SNS                            |                                                   |
-|       | Reply related discussion                |                                                   |
-|-------+-----------------------------------------+---------------------------------------------------|
-|     4 | Keep polishing old posts                |                                                   |
 ** Routine Tasks
 *** Examine blogs via Google webmaster and Google Pagespeed
 1. Google Crawl -> Crawl Errors: [[https://www.google.com/webmasters/tools/crawl-errors?hl=en&siteUrl=https://www.dennyzhang.com/#t2=3][Link]]
