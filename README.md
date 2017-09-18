@@ -300,23 +300,7 @@ Want to ask for comments and sharing:
 
 ### Doc: Reply When People Admire Your Posts<a id="sec-1-8-4" name="sec-1-8-4"></a>
 
-Savitoj, glad to hear that! I like to discuss DevOps questions in Linkedin, and blogging. Please be my friend, and join us in the discussions!  
-
-    Hey Denny,  Glad to see we share a professional connection here. I have started following your blog and honestly, I love it (so far).  Thank you again, Have a great day ahead!  Regards, Savitoj Singh
-    10:03 AM
-    Denny Zhang sent the following message at 10:05 AM
-    Savitoj, glad to hear that!   I like to discuss DevOps questions in Linkedin, and blogging.  Please be my friend, and join us in the discussions!
-    10:05 AM
-    Savitoj Singh sent the following message at 10:16 AM
-     Savitoj Singh
-    Would you mind providing me the link to the group? I will be glad to be a part of that group and contribute the ways I could be.  Thanks
-    10:16 AM
-    Denny Zhang sent the following message at 10:18 AM
-    LOL, I don't maintain the Linkedin group.  (Frankly speaking, I find more Ads than useful posts there)  If you can poll my Linkedin updates, you will see the discussions.
-    10:18 AM
-    Savitoj Singh sent the following message at 10:19 AM
-     Savitoj Singh
-    Awesome. :)
+XXX, glad to hear that! I like to discuss DevOps questions in Linkedin, and blogging. Please be my friend, and join us in the discussions!  
 
 ### Doc: say sorry<a id="sec-1-8-5" name="sec-1-8-5"></a>
 

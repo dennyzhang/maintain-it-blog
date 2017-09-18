@@ -109,6 +109,7 @@ https://www.reddit.com/r/gifs/
 ** Doc Template
 Principle: 
 - Prefer Active Voice over passive voice: avoid "to be" + "ed"
+- Don't use "WE, I" too often. Avoid use I, me
 - Five powerful words: discover，guarantee, health, result, you
 *** Doc: Write A New Blog Post
 - start a blog post
@@ -136,8 +137,8 @@ I want to listen to your feedback, before I publish it.
 If you're too busy for this, surely I can understand. Thanks!
 #+END_EXAMPLE
 *** Doc: Reply When People Admire Your Posts
-Savitoj, glad to hear that! I like to discuss DevOps questions in Linkedin, and blogging. Please be my friend, and join us in the discussions!
-
+XXX, glad to hear that! I like to discuss DevOps questions in Linkedin, and blogging. Please be my friend, and join us in the discussions!
+**** misc                                                          :noexport:
 #+BEGIN_EXAMPLE
 Hey Denny,  Glad to see we share a professional connection here. I have started following your blog and honestly, I love it (so far).  Thank you again, Have a great day ahead!  Regards, Savitoj Singh
 10:03 AM
