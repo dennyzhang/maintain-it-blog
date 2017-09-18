@@ -30,14 +30,14 @@
 <li><a href="#sec-1-6">1.6. Role Models</a></li>
 <li><a href="#sec-1-7">1.7. Doc Template</a>
 <ul>
-<li><a href="#sec-1-7-1">1.7.1. doc: Write A New Blog Post</a></li>
-<li><a href="#sec-1-7-2">1.7.2. doc: Ask People To Share</a></li>
-<li><a href="#sec-1-7-3">1.7.3. doc: Ask People To Review</a></li>
-<li><a href="#sec-1-7-4">1.7.4. doc: Reply When People Admire Your Posts</a></li>
-<li><a href="#sec-1-7-5">1.7.5. doc: say sorry</a></li>
+<li><a href="#sec-1-7-1">1.7.1. Doc: Write A New Blog Post</a></li>
+<li><a href="#sec-1-7-2">1.7.2. Doc: Ask People To Share</a></li>
+<li><a href="#sec-1-7-3">1.7.3. Doc: Ask People To Review</a></li>
+<li><a href="#sec-1-7-4">1.7.4. Doc: Reply When People Admire Your Posts</a></li>
+<li><a href="#sec-1-7-5">1.7.5. Doc: say sorry</a></li>
 </ul>
 </li>
-<li><a href="#sec-1-8">1.8. Recommended Resource</a>
+<li><a href="#sec-1-8">1.8. Recommended Resources</a>
 <ul>
 <li><a href="#sec-1-8-1">1.8.1. Book: Contagious. Why Things Catch On</a></li>
 </ul>
@@ -245,7 +245,12 @@ Yes, in blogging world, quantity over quality. But don't forget to re-activate y
 
 ## Doc Template<a id="sec-1-7" name="sec-1-7"></a>
 
-### doc: Write A New Blog Post<a id="sec-1-7-1" name="sec-1-7-1"></a>
+Principle:  
+
+-   Prefer Active Voice over passive voice: avoid "to be" + "ed"
+-   Five powerful words: discover，guarantee, health, result, you
+
+### Doc: Write A New Blog Post<a id="sec-1-7-1" name="sec-1-7-1"></a>
 
 -   start a blog post
 
@@ -253,7 +258,7 @@ Yes, in blogging world, quantity over quality. But don't forget to re-activate y
     Thinking that you’d like to start a blog this year? This post is for you!
     Try to solve this.
 
-### doc: Ask People To Share<a id="sec-1-7-2" name="sec-1-7-2"></a>
+### Doc: Ask People To Share<a id="sec-1-7-2" name="sec-1-7-2"></a>
 
 As always, please share if you enjoy it!  
 
@@ -262,7 +267,7 @@ Want to ask for comments and sharing:
     http://www.blogtyrant.com/get-more-email-subscribers/
     As always, I’ve probably forgot a lot of really cool things. Leave a comment down below if you have any effective strategies you’d like to share. Oh, and please give this a share if you have a second cos it took a while to put together!
 
-### doc: Ask People To Review<a id="sec-1-7-3" name="sec-1-7-3"></a>
+### Doc: Ask People To Review<a id="sec-1-7-3" name="sec-1-7-3"></a>
 
 -   Review my blog post
 
@@ -272,7 +277,7 @@ Want to ask for comments and sharing:
     I want to listen to your feedback, before I publish it.
     If you're too busy for this, surely I can understand. Thanks!
 
-### doc: Reply When People Admire Your Posts<a id="sec-1-7-4" name="sec-1-7-4"></a>
+### Doc: Reply When People Admire Your Posts<a id="sec-1-7-4" name="sec-1-7-4"></a>
 
 Savitoj, glad to hear that! I like to discuss DevOps questions in Linkedin, and blogging. Please be my friend, and join us in the discussions!  
 
@@ -292,11 +297,11 @@ Savitoj, glad to hear that! I like to discuss DevOps questions in Linkedin, and 
      Savitoj Singh
     Awesome. :)
 
-### doc: say sorry<a id="sec-1-7-5" name="sec-1-7-5"></a>
+### Doc: say sorry<a id="sec-1-7-5" name="sec-1-7-5"></a>
 
 -   We apologize for any confusion about ...
 
-## Recommended Resource<a id="sec-1-8" name="sec-1-8"></a>
+## Recommended Resources<a id="sec-1-8" name="sec-1-8"></a>
 
 ### Book: Contagious. Why Things Catch On<a id="sec-1-8-1" name="sec-1-8-1"></a>
 

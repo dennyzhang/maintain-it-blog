@@ -95,7 +95,10 @@ Reading reading: [[http://www.copyblogger.com/10-sure-fire-headline-formulas-tha
 Yes, in blogging world, quantity over quality. But don't forget to re-activate your own posts.
 ** Role Models
 ** Doc Template
-*** doc: Write A New Blog Post
+Principle: 
+- Prefer Active Voice over passive voice: avoid "to be" + "ed"
+- Five powerful words: discover，guarantee, health, result, you
+*** Doc: Write A New Blog Post
 - start a blog post
 #+BEGIN_EXAMPLE
 In this article I’m going to show you:
@@ -103,7 +106,7 @@ Thinking that you’d like to start a blog this year? This post is for you!
 Try to solve this.
 #+END_EXAMPLE
 
-*** doc: Ask People To Share
+*** Doc: Ask People To Share
 As always, please share if you enjoy it!
 
 Want to ask for comments and sharing:
@@ -111,7 +114,7 @@ Want to ask for comments and sharing:
 http://www.blogtyrant.com/get-more-email-subscribers/
 As always, I’ve probably forgot a lot of really cool things. Leave a comment down below if you have any effective strategies you’d like to share. Oh, and please give this a share if you have a second cos it took a while to put together!
 #+END_EXAMPLE
-*** doc: Ask People To Review
+*** Doc: Ask People To Review
 - Review my blog post
 #+BEGIN_EXAMPLE
 XXX, could you spare me a few minutes to review my new blog post?
@@ -120,7 +123,7 @@ https://www.dennyzhang.com/docker_monitor
 I want to listen to your feedback, before I publish it.
 If you're too busy for this, surely I can understand. Thanks!
 #+END_EXAMPLE
-*** doc: Reply When People Admire Your Posts
+*** Doc: Reply When People Admire Your Posts
 Savitoj, glad to hear that! I like to discuss DevOps questions in Linkedin, and blogging. Please be my friend, and join us in the discussions!
 
 #+BEGIN_EXAMPLE
@@ -140,9 +143,9 @@ Savitoj Singh sent the following message at 10:19 AM
  Savitoj Singh
 Awesome. :)
 #+END_EXAMPLE
-*** doc: say sorry
+*** Doc: say sorry
 - We apologize for any confusion about ...
-*** Blog Writing Template                                          :noexport:
+*** Doc: Blog Writing Template                                     :noexport:
 Format:
 - support coloring: [[color:#c7254e][test
 
@@ -172,6 +175,6 @@ Requirement:
 
 Update Per Audience Feedback:
 - Thanks to [[https://www.linkedin.com/groups/6585254/6585254-6191239865645010946][Daniel Hopper]]: Try [[https://ngrok.com][ngrok,]] Secure tunnels to localhost. Your traffic will go through ngrok's server. It may impose some network penalty. Use ngrok for a quick solution, as long as the latency and security satisfy you. Even if you're a frequent user of ngrok, I still recommend you to go over this post. It helps us to better understand the trick under the scene.
-** Recommended Resource
+** Recommended Resources
 *** Book: Contagious. Why Things Catch On
 - Contagious: Why Things Catch On by Jonah Berger. [[https://www.amazon.com/gp/product/1451686587/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1451686587&linkCode=as2&tag=dennyzhang-20&linkId=2e380926eec0d144e0648f532e1ad78e][Amazon purchase Link]].
