@@ -11,14 +11,14 @@
 <li><a href="#sec-1-1-3">1.1.3. Introduce Latest Tech Trends In Your Field</a></li>
 </ul>
 </li>
-<li><a href="#sec-1-2">1.2. Write Catchy Headlines &amp; Engaging Intro</a></li>
-<li><a href="#sec-1-3">1.3. Lessons Learned</a>
+<li><a href="#sec-1-2">1.2. Lessons Learned</a>
 <ul>
-<li><a href="#sec-1-3-1">1.3.1. How To Write</a></li>
-<li><a href="#sec-1-3-2">1.3.2. How To Promote</a></li>
-<li><a href="#sec-1-3-3">1.3.3. How To Benefit</a></li>
+<li><a href="#sec-1-2-1">1.2.1. How To Write</a></li>
+<li><a href="#sec-1-2-2">1.2.2. How To Promote</a></li>
+<li><a href="#sec-1-2-3">1.2.3. How To Benefit</a></li>
 </ul>
 </li>
+<li><a href="#sec-1-3">1.3. Write Catchy Headlines &amp; Engaging Intro</a></li>
 <li><a href="#sec-1-4">1.4. General Process</a></li>
 <li><a href="#sec-1-5">1.5. Routine Tasks</a>
 <ul>
@@ -30,8 +30,9 @@
 <li><a href="#sec-1-6">1.6. Role Models</a></li>
 <li><a href="#sec-1-7">1.7. Doc Template</a>
 <ul>
-<li><a href="#sec-1-7-1">1.7.1. Ask people to share</a></li>
-<li><a href="#sec-1-7-2">1.7.2. Doc Template: Ask people to review my blog post</a></li>
+<li><a href="#sec-1-7-1">1.7.1. Write A New Blog Post</a></li>
+<li><a href="#sec-1-7-2">1.7.2. Ask People To Share</a></li>
+<li><a href="#sec-1-7-3">1.7.3. Ask People To Review</a></li>
 </ul>
 </li>
 <li><a href="#sec-1-8">1.8. Recommended Resource</a>
@@ -71,21 +72,9 @@ Let's say you want to write a blog post of "tmux". Try all popular Github repos 
 
 Explore new things, and introduce them in a simple and easy language  
 
-## Write Catchy Headlines & Engaging Intro<a id="sec-1-2" name="sec-1-2"></a>
+## Lessons Learned<a id="sec-1-2" name="sec-1-2"></a>
 
-<http://www.copyblogger.com/10-sure-fire-headline-formulas-that-work/>  
-
--   Who Else Wants [a Higher Paying Job]?
--   The Secret of [Getting Your Home Loan Approved]
--   Here is a Method That is Helping [Bloggers] To [Write Better Post Titles]
--   Little Known Ways to [Lose Weight Quickly and Safely]
--   Get Rid of [Your Unproductive Work Habits] Once and For All
--   Here’s a Quick Way to [Backup Your Hard Drive]
--   Now You Can [Quit Your Job] and [Make Even More Money]
-
-## Lessons Learned<a id="sec-1-3" name="sec-1-3"></a>
-
-### How To Write<a id="sec-1-3-1" name="sec-1-3-1"></a>
+### How To Write<a id="sec-1-2-1" name="sec-1-2-1"></a>
 
 -   Visualize Your Audience And Use Case, And Talk To Them.
 
@@ -103,7 +92,7 @@ If you can't deliver your thinking smoothly. People will simply leave. They don'
 
 People like meaningful details.  
 
-### How To Promote<a id="sec-1-3-2" name="sec-1-3-2"></a>
+### How To Promote<a id="sec-1-2-2" name="sec-1-2-2"></a>
 
 -   Focus on your quality, instead of spreading to a bigger audience.
 
@@ -119,7 +108,7 @@ The main objective is not about bringing more traffic to your blog. It's about l
 
 You're not competitors. You help each other to grow stronger and do better.  
 
-### How To Benefit<a id="sec-1-3-3" name="sec-1-3-3"></a>
+### How To Benefit<a id="sec-1-2-3" name="sec-1-2-3"></a>
 
 -   Ask people to take small actions.
 
@@ -132,6 +121,18 @@ Ask people:
 3.  Send you private messages
 4.  Share with their friends
 5.  Leave you comments
+
+## Write Catchy Headlines & Engaging Intro<a id="sec-1-3" name="sec-1-3"></a>
+
+-   Who Else Wants [a Higher Paying Job]?
+-   The Secret of [Getting Your Home Loan Approved]
+-   Here is a Method That is Helping [Bloggers] To [Write Better Post Titles]
+-   Little Known Ways to [Lose Weight Quickly and Safely]
+-   Get Rid of [Your Unproductive Work Habits] Once and For All
+-   Here’s a Quick Way to [Backup Your Hard Drive]
+-   Now You Can [Quit Your Job] and [Make Even More Money]
+
+Reading reading: [link](http://www.copyblogger.com/10-sure-fire-headline-formulas-that-work/)  
 
 ## General Process<a id="sec-1-4" name="sec-1-4"></a>
 
@@ -234,7 +235,15 @@ Yes, in blogging world, quantity over quality. But don't forget to re-activate y
 
 ## Doc Template<a id="sec-1-7" name="sec-1-7"></a>
 
-### Ask people to share<a id="sec-1-7-1" name="sec-1-7-1"></a>
+### Write A New Blog Post<a id="sec-1-7-1" name="sec-1-7-1"></a>
+
+-   start a blog post
+
+    In this article I’m going to show you:
+    Thinking that you’d like to start a blog this year? This post is for you!
+    Try to solve this.
+
+### Ask People To Share<a id="sec-1-7-2" name="sec-1-7-2"></a>
 
 As always, please share if you enjoy it!  
 
@@ -243,7 +252,9 @@ Want to ask for comments and sharing:
     http://www.blogtyrant.com/get-more-email-subscribers/
     As always, I’ve probably forgot a lot of really cool things. Leave a comment down below if you have any effective strategies you’d like to share. Oh, and please give this a share if you have a second cos it took a while to put together!
 
-### Doc Template: Ask people to review my blog post<a id="sec-1-7-2" name="sec-1-7-2"></a>
+### Ask People To Review<a id="sec-1-7-3" name="sec-1-7-3"></a>
+
+-   Review my blog post
 
     XXX, could you spare me a few minutes to review my new blog post?
     https://www.dennyzhang.com/docker_monitor
