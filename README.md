@@ -284,7 +284,9 @@ Yes, in blogging world, quantity over quality. But don't forget to re-activate y
 -   wp-config.php: Changing The Site URL
 
     https://codex.wordpress.org/Changing_The_Site_URL
+    
     define('WP_HOME','http://example.com');
+    
     define('WP_SITEURL','http://example.com');
 
 ### Speed up<a id="sec-1-8-2" name="sec-1-8-2"></a>

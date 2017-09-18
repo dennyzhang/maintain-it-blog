@@ -109,7 +109,9 @@ Yes, in blogging world, quantity over quality. But don't forget to re-activate y
 
 #+BEGIN_EXAMPLE
 https://codex.wordpress.org/Changing_The_Site_URL
+
 define('WP_HOME','http://example.com');
+
 define('WP_SITEURL','http://example.com');
 #+END_EXAMPLE
 *** Speed up
