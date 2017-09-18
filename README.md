@@ -13,10 +13,12 @@
 </li>
 <li><a href="#sec-1-2">1.2. Lessons learned</a>
 <ul>
-<li><a href="#sec-1-2-1">1.2.1. Ask the feedback from your friends personally.</a></li>
-<li><a href="#sec-1-2-2">1.2.2. Make the reading fluid</a></li>
+<li><a href="#sec-1-2-1">1.2.1. Focus on your quality, instead of spreading to a bigger audience</a></li>
+<li><a href="#sec-1-2-2">1.2.2. Ask the feedback from your friends personally.</a></li>
 <li><a href="#sec-1-2-3">1.2.3. Ask people to take small actions</a></li>
 <li><a href="#sec-1-2-4">1.2.4. People are impatient</a></li>
+<li><a href="#sec-1-2-5">1.2.5. Make the reading fluid</a></li>
+<li><a href="#sec-1-2-6">1.2.6. Leave comments to similar blogs</a></li>
 </ul>
 </li>
 <li><a href="#sec-1-3">1.3. General Process</a></li>
@@ -68,13 +70,13 @@ Explore new things, and introduce them in a simple and easy language
 
 ## Lessons learned<a id="sec-1-2" name="sec-1-2"></a>
 
-### Ask the feedback from your friends personally.<a id="sec-1-2-1" name="sec-1-2-1"></a>
+### Focus on your quality, instead of spreading to a bigger audience<a id="sec-1-2-1" name="sec-1-2-1"></a>
+
+Bring crappy resource to a bigger audience? Do you really think it's a good thing, instead of a bad thing?  
+
+### Ask the feedback from your friends personally.<a id="sec-1-2-2" name="sec-1-2-2"></a>
 
 You should have friends working in the same field. If your new doesn't serve your friends well, it won't work well for others.  
-
-### Make the reading fluid<a id="sec-1-2-2" name="sec-1-2-2"></a>
-
-If you can't deliver your thinking smoothly. People will simply leave. They don't even bother to leave you a complain.  
 
 ### Ask people to take small actions<a id="sec-1-2-3" name="sec-1-2-3"></a>
 
@@ -90,7 +92,17 @@ Ask people:
 
 ### People are impatient<a id="sec-1-2-4" name="sec-1-2-4"></a>
 
-Let them get your idea in 3 seconds.  
+You only have 3-5 seconds to convince people to keep reading  
+
+### Make the reading fluid<a id="sec-1-2-5" name="sec-1-2-5"></a>
+
+If you can't deliver your thinking smoothly. People will simply leave. They don't even bother to leave you a complain.  
+
+### Leave comments to similar blogs<a id="sec-1-2-6" name="sec-1-2-6"></a>
+
+The main objective is not about bringing more traffic to your blog. It's about learning things from other bloggers, and make friends with them.  
+
+You're not competitors. You help each other to grow stronger and do better.  
 
 ## General Process<a id="sec-1-3" name="sec-1-3"></a>
 
@@ -186,6 +198,9 @@ Let them get your idea in 3 seconds.
 -   google Crawl -> Crawl Errors: [Link](https://www.google.com/webmasters/tools/crawl-errors?hl=en&siteUrl=https://www.dennyzhang.com/#t2=3)
 
 ### List all new URLs link to your blog, and reach out them<a id="sec-1-4-2" name="sec-1-4-2"></a>
+
+1.  Send them thankyou note
+2.  Understand what makes them doing that
 
 ### Weekly review your old and popular posts: re-activate them<a id="sec-1-4-3" name="sec-1-4-3"></a>
 
