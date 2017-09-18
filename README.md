@@ -27,7 +27,7 @@
 </ul>
 </li>
 <li><a href="#sec-1-5">1.5. Role Models</a></li>
-<li><a href="#sec-1-6">1.6. Doc Template For Engagement</a>
+<li><a href="#sec-1-6">1.6. Doc Template</a>
 <ul>
 <li><a href="#sec-1-6-1">1.6.1. Ask people to share</a></li>
 <li><a href="#sec-1-6-2">1.6.2. Doc Template: Ask people to review my blog post</a></li>
@@ -85,6 +85,10 @@ You only have 3-5 seconds to convince people to keep reading
 -   Make the reading fluid.
 
 If you can't deliver your thinking smoothly. People will simply leave. They don't even bother to leave you a complain.  
+
+-   Avoid using vague or fuzzy statement.
+
+People like meaningful details.  
 
 ### How To Promote<a id="sec-1-2-2" name="sec-1-2-2"></a>
 
@@ -215,7 +219,7 @@ Yes, in blogging world, quantity over quality. But don't forget to re-activate y
 
 ## Role Models<a id="sec-1-5" name="sec-1-5"></a>
 
-## Doc Template For Engagement<a id="sec-1-6" name="sec-1-6"></a>
+## Doc Template<a id="sec-1-6" name="sec-1-6"></a>
 
 ### Ask people to share<a id="sec-1-6-1" name="sec-1-6-1"></a>
 
