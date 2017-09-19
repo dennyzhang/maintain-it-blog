@@ -57,6 +57,7 @@
 <li><a href="#sec-1-8-4">1.8.4. Doc: Reply When People Admire Your Posts</a></li>
 <li><a href="#sec-1-8-5">1.8.5. Doc: examples of transition words</a></li>
 <li><a href="#sec-1-8-6">1.8.6. Doc: say sorry</a></li>
+<li><a href="#sec-1-8-7">1.8.7. Doc: thank you for people promoting your content</a></li>
 </ul>
 </li>
 <li><a href="#sec-1-9">1.9. Recommended Resources</a>
@@ -476,6 +477,13 @@ XXX, glad to hear that! I like to discuss DevOps questions in Linkedin, and blog
 ### Doc: say sorry<a id="sec-1-8-6" name="sec-1-8-6"></a>
 
 -   We apologize for any confusion about ...
+
+### Doc: thank you for people promoting your content<a id="sec-1-8-7" name="sec-1-8-7"></a>
+
+    If someone mentions your website on their blog, thank that blogger in
+    the comments of the post and send them a thank you note. You can
+    monitor any mentions of your blog using Google Alerts, Technorati, and
+    Blogpulse.
 
 ## Recommended Resources<a id="sec-1-9" name="sec-1-9"></a>
 

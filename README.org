@@ -219,6 +219,13 @@ Awesome. :)
 | emphasis             | most of all, most noteworthy, especially relevant                   |
 *** Doc: say sorry
 - We apologize for any confusion about ...
+*** Doc: thank you for people promoting your content
+#+BEGIN_EXAMPLE
+If someone mentions your website on their blog, thank that blogger in
+the comments of the post and send them a thank you note. You can
+monitor any mentions of your blog using Google Alerts, Technorati, and
+Blogpulse.
+#+END_EXAMPLE
 *** Doc: Blog Writing Template                                     :noexport:
 Format:
 - support coloring: [[color:#c7254e][test
