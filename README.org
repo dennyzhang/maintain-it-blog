@@ -225,15 +225,11 @@ Format:
 
 [[image-blog:9 Useful Tips For Linux Server Security][
 
-[[image-linkedin:
-[[image-linkedin:Get Notifcation: Monitor Your Docker Image Sizing][https://www.dennyzhang.com/wp-content/uploads/denny/linkedin_codecheck.png]]
+[[image-linkedin:Get Notifcation: Monitor Your Docker Image Sizing][https://www.dennyzhang.com/wp-content/uploads/denny/linkedin_codecheck.png]
 
-[[image-github:
-
-[[image-github:https://github.com/DennyZhang/monitor-docker-slack][https://www.dennyzhang.com/wp-content/uploads/denny/github-docker-monitor-container.png]]
+[[image-github:https://github.com/DennyZhang/monitor-docker-slack][https://www.dennyzhang.com/wp-content/uploads/denny/github-docker-monitor-container.png]
  
-[[url-external:
-[[url-external:LinkedIn Discussion][https://www.linkedin.com/feed/update/urn:li:activity:6282693138029043712]]
+[[url-external:LinkedIn Discussion][https://www.linkedin.com/feed/update/urn:li:activity:6282693138029043712]
 
 Requirement:
 - Mobile adaptive: Line wrap at 45
