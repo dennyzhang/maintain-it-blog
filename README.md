@@ -19,8 +19,9 @@
 </li>
 <li><a href="#sec-1-3">1.3. Lesson Learned: Promoting &amp; Influence</a>
 <ul>
-<li><a href="#sec-1-3-1">1.3.1. How To Promote</a></li>
-<li><a href="#sec-1-3-2">1.3.2. How To Get Benefits</a></li>
+<li><a href="#sec-1-3-1">1.3.1. Most Of Your Posts May Influence Nobody. Not A Single One</a></li>
+<li><a href="#sec-1-3-2">1.3.2. How To Promote</a></li>
+<li><a href="#sec-1-3-3">1.3.3. How To Get Benefits</a></li>
 </ul>
 </li>
 <li><a href="#sec-1-4">1.4. Open Issues</a>
@@ -229,7 +230,11 @@ show readers you are summarizing, comparing or concluding something.
 
 ## Lesson Learned: Promoting & Influence<a id="sec-1-3" name="sec-1-3"></a>
 
-### How To Promote<a id="sec-1-3-1" name="sec-1-3-1"></a>
+### Most Of Your Posts May Influence Nobody. Not A Single One<a id="sec-1-3-1" name="sec-1-3-1"></a>
+
+You may not believe that. But show me wrong, if you can.  
+
+### How To Promote<a id="sec-1-3-2" name="sec-1-3-2"></a>
 
 -   Focus on your quality, instead of spreading to a bigger audience.
 
@@ -247,7 +252,7 @@ The main objective is not about bringing more traffic to your blog. It's about l
 
 You're not competitors. You help each other to grow stronger and do better.  
 
-### How To Get Benefits<a id="sec-1-3-2" name="sec-1-3-2"></a>
+### How To Get Benefits<a id="sec-1-3-3" name="sec-1-3-3"></a>
 
 -   If your posts don't connvince people taking actions, your influence is low to the audience.
 
