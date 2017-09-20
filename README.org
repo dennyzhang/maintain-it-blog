@@ -238,7 +238,7 @@ Format:
 
 [[image-github:https://github.com/DennyZhang/monitor-docker-slack][https://www.dennyzhang.com/wp-content/uploads/denny/github-docker-monitor-container.png]
  
-[[url-external:LinkedIn Discussion][https://www.linkedin.com/feed/update/urn:li:activity:6282693138029043712]
+[[url-external:https://www.linkedin.com/feed/update/urn:li:activity:6282693138029043712][LinkedIn Discussion]
 
 Requirement:
 - Mobile adaptive: Line wrap at 45
