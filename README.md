@@ -501,6 +501,7 @@ XXX, glad to hear that! I like to discuss DevOps questions in Linkedin, and blog
 -   [16 Top Tips from Blogging Experts for Beginners](https://blog.bufferapp.com/blogging-advice-for-beginners-from-16-experts)
 -   [101 Steps to Becoming a Better Blogger](http://www.lifehack.org/articles/featured/101-steps-to-becoming-a-better-blogger.html)
 -   [The easiest posts to write for a programming blog](http://blog.arkency.com/2017/07/the-easiest-posts-to-write-for-a-programming-blog/)
+-   [10 Things You Need to Do After You Publish Your Blog Post](https://smartblogger.com/after-publish-blog-post/)
 
 ### Role Models<a id="sec-1-9-3" name="sec-1-9-3"></a>
 

@@ -240,6 +240,8 @@ Format:
  
 [[url-external:https://www.linkedin.com/feed/update/urn:li:activity:6282693138029043712][LinkedIn Discussion]
 
+[[github:DennyZhang][Follow Github @dennyzhang]
+
 Requirement:
 - Mobile adaptive: Line wrap at 45
 - Small icon for wechat: 300x300, over 40 KB
@@ -261,5 +263,6 @@ Update Per Audience Feedback:
 - [[https://blog.bufferapp.com/blogging-advice-for-beginners-from-16-experts][16 Top Tips from Blogging Experts for Beginners]]
 - [[http://www.lifehack.org/articles/featured/101-steps-to-becoming-a-better-blogger.html][101 Steps to Becoming a Better Blogger]]
 - [[http://blog.arkency.com/2017/07/the-easiest-posts-to-write-for-a-programming-blog/][The easiest posts to write for a programming blog]]
+- [[https://smartblogger.com/after-publish-blog-post/][10 Things You Need to Do After You Publish Your Blog Post]]
 *** Role Models
 - TODO
