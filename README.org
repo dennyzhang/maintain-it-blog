@@ -266,3 +266,90 @@ Update Per Audience Feedback:
 - [[https://smartblogger.com/after-publish-blog-post/][10 Things You Need to Do After You Publish Your Blog Post]]
 *** Role Models
 - TODO
+** #  --8<-------------------------- separator ------------------------>8-- :noexport:
+** [#A] Blog Principle                                             :noexport:
+- The purpose of content is to create influence; The purpose of marketing is to convert influence into action.
+https://smartblogger.com/content-marketing/
+*** Guideline for content marketing
+https://smartblogger.com/seo-mistakes/
+
+It’s just three simple steps:
+
+1. Create jaw-dropping content
+2. Get influencers talking about it
+3. Wait for Google to catch up
+*** People not only seek for knowledge, but also phymepey or recognition.
+*** People love to share articles that feature them.
+https://smartblogger.com/traffic-hack/
+
+Why Curated List Posts Almost Always Get Shared by Big Names
+When you write a curated post, you’re not only creating new content for your blog, but you’re promoting the work of others – the people who created the linked content.
+
+And here’s the happy side-effect:
+
+People love to share articles that feature them.
+
+Just ask any blogger and you’ll find it’s true. I’m no different – if you feature me or one of my articles in your post and ask me to share it, you’re almost guaranteed that I will. It’s netiquette – the common rules of the road etiquette for today’s blogger.
+*** get more backlinks: A lot of ranking decisions are based on how many backlinks you have
+http://www.wikihow.com/Be-a-Good-Blogger
+
+Do what you can to get relevant links that point to your homepage and
+your individual posts. A lot of ranking decisions are based on how
+many backlinks you have coming into your website. You can get these
+links by writing articles to submit to directories, writing guest blog
+posts on other high traffic blogs, using social networking sites,
+using social bookmarking sites, and buying links (be very careful with
+this tactic).
+*** Before visitors open your blog posts, we have their own expectations.
+*** Blogging is all about selling ideas.
+*** [#A] Make it worth referencing: all posts have two audiences: people who read and people who link
+https://blog.bufferapp.com/blogging-advice-for-beginners-from-16-experts
+
+If you want traffic, you have to satisfy both audiences. So, who are the people who link to your posts?
+
+Simple: the connections you developed in the previous stage.
+Here, you want to write posts targeted at those connections. Don’t ignore your audience – they still matter – but think about what those connections would find irresistible to link to.
+
+Don’t just think about your audience. Think about who you want to link to your posts, and then write something irresistible for them. You’ll get links (and traffic) easier than you could’ve ever imagined.
+
+One thing I always try to keep in mind before publishing a post is would anyone want to “cite” this for any reason?
+*** Always assume audience are impatient and dummy
+https://www.dennyzhang.com/query_elasticsearch
+*** made the subject fun; Don't pretend to be a teacher know the most!
+https://smartblogger.com/bounce-reasons/
+
+You Make People Exhausted Not Energized
+
+Many bloggers think of themselves as teachers. And that’s fine because many readers read blogs to learn.
+
+But the purpose of your blog post is not just to transfer information from your brain to the reader’s. That’s part of it, but it’s far from the full picture.
+
+Just think about your favorite teachers from school. They weren’t the ones who knew the most. Or even the ones whose classes got the best grades. They were the ones who made the subject fun. At the end of the class,  you had more passion and enthusiasm for the subject than when you started.
+
+And that’s how the best bloggers are too. They’re not just teachers, but performers.
+
+Because if all you do is teach, your reader’s energy levels will fall — because learning takes mental effort.
+
+That’s why you need to invigorate your readers too. Give them the energy they need to dive into your next post.
+*** If they don't subscribe, they don't come back.
+https://smartblogger.com/blog-questions/
+*** Traffic Is a Distraction Until You Fix This Basic Problem
+https://smartblogger.com/blog-questions/
+
+If your blog isn’t attracting subscribers, focusing on traffic is an amateur mistake. It’s like pouring water into a leaking bucket.
+
+Instead, you need to focus on how well your blog converts visitors to subscribers.
+*** Q: Is This Relevant to Me?
+https://smartblogger.com/blog-questions/
+
+The most common mistake bloggers make is to be too vague.
+
+Often visitors can see the general topic of the blog (e.g., marketing
+or self-improvement) but they can’t quickly determine what it’s about
+specifically (e.g., marketing for authors, self-improvement for
+married women).
+*** Q: Is This Valuable to Me?
+https://smartblogger.com/blog-questions/
+*** Focus on actionable advice
+https://smartblogger.com/blog-questions/
+
