@@ -241,6 +241,7 @@ Format:
 [[url-external:https://www.linkedin.com/feed/update/urn:li:activity:6282693138029043712][LinkedIn Discussion]
 
 [[github:DennyZhang][Follow Github @dennyzhang]
+[[slack][Follow Github @dennyzhang]
 
 Requirement:
 - Mobile adaptive: Line wrap at 45
