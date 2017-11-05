@@ -240,8 +240,8 @@ Format:
  
 [[url-external:https://www.linkedin.com/feed/update/urn:li:activity:6282693138029043712][LinkedIn Discussion]
 
-[[github:DennyZhang][Github @dennyzhang]
-[[slack][Follow Github @dennyzhang]
+[[github:DennyZhang][Github]
+[[slack][Slack]
 
 Requirement:
 - Mobile adaptive: Line wrap at 45
