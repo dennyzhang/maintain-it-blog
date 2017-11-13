@@ -1,6 +1,6 @@
 #+TAGS: noexport(n)
 #+OPTIONS: toc:3 \n:t
-#+AUTHOR: dennyzhang.com (contact@dennyzhang.com)
+#+AUTHOR: dennyzhang.com (https://www.dennyzhang.com/contact)
 #+SEQ_TODO: TODO HALF ASSIGN | DONE BYPASS DELEGATE CANCELED DEFERRED
 * Be a better IT Blogger
 #+BEGIN_HTML
