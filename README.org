@@ -234,6 +234,8 @@ Format:
 
 [[image-blog:9 Useful Tips For Linux Server Security][
 
+[[image-blog:Blind Wait][https://www.dennyzhang.com/wp-content/uploads/denny/docker_deployment.jpg]
+
 [[image-linkedin:Get Notifcation: Monitor Your Docker Image Sizing][https://www.dennyzhang.com/wp-content/uploads/denny/linkedin_codecheck.png]
 
 [[image-github:https://github.com/DennyZhang/monitor-docker-slack][https://www.dennyzhang.com/wp-content/uploads/denny/github-docker-monitor-container.png]
